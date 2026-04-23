@@ -1,0 +1,93 @@
+name: 🤖 UTBK QGen Pipeline
+
+on:
+  # ─── Trigger 1: Otomatis saat ada file baru di-push ke input_raw/ ───
+  push:
+    paths:
+      - 'input_raw/**'
+
+  # ─── Trigger 2: Terjadwal setiap hari pukul 19:00 UTC = 02:00 WIB ───
+  schedule:
+    - cron: '0 19 * * *'
+
+  # ─── Trigger 3: Jalankan manual dari tab Actions di GitHub ───
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    name: Jalankan Pipeline Soal
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout repo
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Setup Python
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # 3. Install dependensi sistem (untuk OCR)
+      - name: 📦 Install sistem dependencies (Tesseract OCR)
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-ind
+
+      # 4. Install dependensi Python
+      - name: 📦 Install Python dependencies
+        run: pip install -r requirements.txt
+
+      # 5. Setup Google Service Account dari Secret
+      - name: 🔐 Setup Google credentials
+        run: |
+          echo '${{ secrets.GOOGLE_SERVICE_ACCOUNT }}' > /tmp/service_account.json
+
+      # 6. Jalankan Step 1 — Ekstraksi Teks
+      - name: 📄 Step 1 — Ekstraksi teks dari input_raw/
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/01_extract.py
+
+      # 7. Jalankan Step 2 — Parsing & Dataset Acuan
+      - name: 🏷️ Step 2 — Parsing & tagging soal
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/02_parse.py
+
+      # 8. Jalankan Step 3 — Generate Soal Baru
+      - name: ✨ Step 3 — Generate soal baru via Claude
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/03_generate.py
+
+      # 9. Jalankan Step 4 — Generate Gambar via Gemini
+      - name: 🖼️ Step 4 — Generate gambar via Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/04_image.py
+
+      # 10. Jalankan Step 5 — Export ke Google Sheets / Docs
+      - name: 📊 Step 5 — Sinkronisasi ke Google Sheets
+        env:
+          GOOGLE_SERVICE_ACCOUNT_PATH: /tmp/service_account.json
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+          GOOGLE_DOC_ID: ${{ secrets.GOOGLE_DOC_ID }}
+        run: python scripts/05_export.py
+
+      # 11. Hapus file input_raw/ setelah berhasil diproses
+      - name: 🧹 Bersihkan input_raw/ setelah diproses
+        run: |
+          find input_raw/ -type f ! -name '.gitkeep' -delete
+          echo "input_raw/ dibersihkan."
+
+      # 12. Commit hasil output ke repo
+      - name: 💾 Commit hasil ke repo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add data/ output_gambar/ output/
+          git diff --staged --quiet || git commit -m "🤖 auto: pipeline run $(date +'%Y-%m-%d %H:%M') WIB"
+          git push
