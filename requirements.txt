@@ -8,7 +8,8 @@ Pillow==10.4.0
 pytesseract==0.3.13
 
 # AI APIs
-anthropic==0.34.2
+anthropic==0.40.0
+httpx<0.28.0          # pin agar kompatibel dengan anthropic
 google-generativeai==0.7.2
 
 # Google Workspace
