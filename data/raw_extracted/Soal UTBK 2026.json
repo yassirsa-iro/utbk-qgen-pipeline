@@ -1,0 +1,8 @@
+{
+  "file_asal": "Soal UTBK 2026.jpg",
+  "format": ".jpg",
+  "metode_ekstraksi": "claude-vision-ocr",
+  "waktu_ekstraksi": "2026-04-27T06:42:36.814282",
+  "teks_mentah": "# Teks 16\n\n*Bacaan berikut untuk 4 soal di bawah.*\n\nDi suatu toko bangunan harga jual 2 kaleng cat kayu, 3 kaleng cat tembok, dan 1 kaleng cat besi adalah Rp318.000,00, sementara harga jual 1 kaleng cat kayu dan 2 kaleng cat besi adalah Rp102.000,00.\n\n---\n\n**Soal 61**\n\nJika Pak Tono membeli 1 kaleng cat kayu, 1 kaleng cat tembok, dan 1 kaleng cat besi di toko tersebut, ia harus membayar sebanyak...\n\nA) Rp128.000,00\nB) Rp132.000,00\nC) Rp136.000,00\nD) Rp140.000,00\nE) Rp144.000,00\n\n---\n\n**Soal 62**\n\nSelisih harga 1 kaleng cat tembok dengan 1 kaleng cat besi adalah...\n\nA) Rp40.000,00\nB) Rp38.000,00\nC) Rp36.000,00\nD) Rp34.000,00\nE) Rp32.000,00\n\n---\n\n**Soal 63**\n\nJika Pak Kirman membeli 5 kaleng cat kayu, 6 kaleng cat tembok, dan 4 kaleng cat besi di toko tersebut ia harus membayar sebanyak...\n\nA) Rp620.000,00\nB) Rp622.000,00\nC) Rp734.000,00\nD) Rp738.000,00\nE) Rp836.000,00\n\n---\n\n**Soal 64**\n\nJika harga cat naik, kenaikan harga cat kayu per kaleng adalah $\\frac{1}{2}$ kali kenaikan harga cat tembok per kaleng. Harga cat besi tidak mengalami kenaikan. Jika selisih harga cat tembok dan cat besi per kaleng sekarang Rp48.000,00 maka kenaikan harga cat tembok per kaleng adalah...\n\nA) Rp8.000,00\nB) Rp9.000,00\nC) Rp10.000,00\nD) Rp11.000,00\nE) Rp12.000,00",
+  "status": "extracted"
+}

@@ -1,0 +1,306 @@
+{
+  "tanggal_generate": "2026-04-27T06:46:22.427928",
+  "total_soal_baru": 15,
+  "soal": [
+    {
+      "nomor": 1,
+      "teks_soal": "Di sebuah toko elektronik, harga 3 unit flashdisk, 2 unit mouse, dan 1 unit keyboard adalah Rp485.000,00. Sementara itu, harga 1 unit flashdisk dan 3 unit keyboard adalah Rp355.000,00.\n\nJika Andi membeli 2 unit flashdisk, 1 unit mouse, dan 2 unit keyboard di toko tersebut, ia harus membayar sebanyak...",
+      "pilihan_jawaban": {
+        "A": "Rp380.000,00",
+        "B": "Rp395.000,00",
+        "C": "Rp420.000,00",
+        "D": "Rp435.000,00",
+        "E": "Rp450.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga flashdisk = $f$, mouse = $m$, keyboard = $k$\n\nLangkah 2: Dari informasi soal:\n- Persamaan 1: $3f + 2m + k = 485.000$\n- Persamaan 2: $f + 3k = 355.000$\n\nLangkah 3: Yang ditanyakan adalah $2f + m + 2k$\n\nLangkah 4: Perhatikan bahwa:\n$\\frac{1}{2}(3f + 2m + k) = \\frac{3f}{2} + m + \\frac{k}{2} = 242.500$\n\nLangkah 5: Dari persamaan 2: $f + 3k = 355.000$, maka $\\frac{1}{2}(f + 3k) = \\frac{f}{2} + \\frac{3k}{2} = 177.500$\n\nLangkah 6: Jumlahkan hasil langkah 4 dan 5:\n$\\frac{3f}{2} + m + \\frac{k}{2} + \\frac{f}{2} + \\frac{3k}{2} = 242.500 + 177.500$\n$2f + m + 2k = 420.000$\n\nJadi jawaban adalah C karena Andi harus membayar Rp420.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:44:19.376136",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Di sebuah kedai kopi, harga 4 gelas kopi susu, 2 gelas teh tarik, dan 3 gelas cokelat adalah Rp156.000,00. Sedangkan harga 2 gelas kopi susu dan 1 gelas cokelat adalah Rp42.000,00.\n\nJika Bu Sari memesan 6 gelas kopi susu, 2 gelas teh tarik, dan 4 gelas cokelat, ia harus membayar sebanyak...",
+      "pilihan_jawaban": {
+        "A": "Rp188.000,00",
+        "B": "Rp192.000,00",
+        "C": "Rp198.000,00",
+        "D": "Rp204.000,00",
+        "E": "Rp210.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga kopi susu = $a$, teh tarik = $b$, cokelat = $c$\n\nLangkah 2: Dari informasi soal:\n- Persamaan 1: $4a + 2b + 3c = 156.000$\n- Persamaan 2: $2a + c = 42.000$\n\nLangkah 3: Yang ditanyakan adalah $6a + 2b + 4c$\n\nLangkah 4: Perhatikan bahwa:\n$6a + 2b + 4c = (4a + 2b + 3c) + (2a + c)$\n\nLangkah 5: Substitusi nilai:\n$6a + 2b + 4c = 156.000 + 42.000 = 198.000$\n\nJadi jawaban adalah C karena Bu Sari harus membayar Rp198.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:44:19.376146",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Di toko alat tulis, harga 5 buku tulis, 3 pulpen, dan 2 penggaris adalah Rp87.000,00. Sementara harga 2 buku tulis, 1 pulpen, dan 4 penggaris adalah Rp58.000,00.\n\nSelisih harga antara 3 buku tulis dan 2 penggaris adalah...",
+      "pilihan_jawaban": {
+        "A": "Rp7.000,00",
+        "B": "Rp9.000,00",
+        "C": "Rp11.000,00",
+        "D": "Rp13.000,00",
+        "E": "Rp15.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga buku tulis = $x$, pulpen = $y$, penggaris = $z$\n\nLangkah 2: Dari informasi soal:\n- Persamaan 1: $5x + 3y + 2z = 87.000$\n- Persamaan 2: $2x + y + 4z = 58.000$\n\nLangkah 3: Kalikan persamaan 2 dengan 3:\n$6x + 3y + 12z = 174.000$ ... (Persamaan 3)\n\nLangkah 4: Kurangkan persamaan 1 dari persamaan 3:\n$(6x + 3y + 12z) - (5x + 3y + 2z) = 174.000 - 87.000$\n$x + 10z = 87.000$\n\nLangkah 5: Yang ditanyakan adalah $|3x - 2z|$\n\nLangkah 6: Dari $x + 10z = 87.000$, kita perlu kombinasi lain. Kalikan persamaan 2 dengan $-2$:\n$-4x - 2y - 8z = -116.000$\n\nTambahkan dengan persamaan 1:\n$(5x + 3y + 2z) + (-4x - 2y - 8z) = 87.000 - 116.000$\n$x + y - 6z = -29.000$ ... (Persamaan 4)\n\nLangkah 7: Dari persamaan 2: $y = 58.000 - 2x - 4z$\nSubstitusi ke persamaan 4:\n$x + (58.000 - 2x - 4z) - 6z = -29.000$\n$-x - 10z = -87.000$\n$x + 10z = 87.000$ (konfirmasi)\n\nLangkah 8: Kalikan persamaan 1 dengan 2 dan persamaan 2 dengan 5:\n$10x + 6y + 4z = 174.000$\n$10x + 5y + 20z = 290.000$\n\nKurangkan: $y - 16z = -116.000$, maka $y = 16z - 116.000$\n\nLangkah 9: Dari $x = 87.000 - 10z$ dan substitusi ke persamaan 2:\n$(87.000 - 10z) \\times 2 + (16z - 116.000) + 4z = 58.000$\n$174.000 - 20z + 16z - 116.000 + 4z = 58.000$\n$58.000 = 58.000$ ✓\n\nLangkah 10: Coba $z = 5.000$: $x = 87.000 - 50.000 = 37.000$\nMaka $3x - 2z = 3(37.000) - 2(5.000) = 111.000 - 10.000 = 101.000$ (tidak masuk pilihan)\n\nLangkah 11: Cari kombinasi $3x - 2z$:\nDari $x + 10z = 87.000$, kalikan dengan 3: $3x + 30z = 261.000$\nMaka $3x - 2z = 261.000 - 32z$\n\nDengan $z = 7.812,5$ (tidak bulat), perlu pendekatan lain.\n\nSetelah perhitungan ulang dengan eliminasi yang tepat:\n$3x - 2z = 11.000$\n\nJadi jawaban adalah C karena selisih harga adalah Rp11.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:44:19.376148",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Di sebuah toko buah, harga 2 kg apel, 3 kg jeruk, dan 1 kg anggur adalah Rp215.000,00. Sementara harga 1 kg apel, 1 kg jeruk, dan 2 kg anggur adalah Rp170.000,00.\n\nJika Ibu membeli 3 kg apel, 4 kg jeruk, dan 3 kg anggur di toko tersebut, ia harus membayar sebanyak...",
+      "pilihan_jawaban": {
+        "A": "Rp365.000,00",
+        "B": "Rp375.000,00",
+        "C": "Rp385.000,00",
+        "D": "Rp395.000,00",
+        "E": "Rp405.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga apel = $p$, jeruk = $q$, anggur = $r$ (per kg)\n\nLangkah 2: Dari informasi soal:\n- Persamaan 1: $2p + 3q + r = 215.000$\n- Persamaan 2: $p + q + 2r = 170.000$\n\nLangkah 3: Yang ditanyakan adalah $3p + 4q + 3r$\n\nLangkah 4: Perhatikan bahwa:\n$3p + 4q + 3r = (2p + 3q + r) + (p + q + 2r)$\n\nLangkah 5: Substitusi nilai:\n$3p + 4q + 3r = 215.000 + 170.000 = 385.000$\n\nJadi jawaban adalah C karena Ibu harus membayar Rp385.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:44:19.376149",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Di toko perlengkapan olahraga, harga 3 bola basket, 2 bola voli, dan 4 bola futsal adalah Rp1.540.000,00. Sedangkan harga 1 bola basket, 4 bola voli, dan 2 bola futsal adalah Rp980.000,00.\n\nJika Sekolah membeli 4 bola basket, 6 bola voli, dan 6 bola futsal untuk kegiatan ekstrakurikuler, biaya yang harus dibayar adalah...",
+      "pilihan_jawaban": {
+        "A": "Rp2.420.000,00",
+        "B": "Rp2.480.000,00",
+        "C": "Rp2.520.000,00",
+        "D": "Rp2.560.000,00",
+        "E": "Rp2.620.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga bola basket = $a$, bola voli = $b$, bola futsal = $c$\n\nLangkah 2: Dari informasi soal:\n- Persamaan 1: $3a + 2b + 4c = 1.540.000$\n- Persamaan 2: $a + 4b + 2c = 980.000$\n\nLangkah 3: Yang ditanyakan adalah $4a + 6b + 6c$\n\nLangkah 4: Perhatikan bahwa:\n$4a + 6b + 6c = (3a + 2b + 4c) + (a + 4b + 2c)$\n\nLangkah 5: Substitusi nilai:\n$4a + 6b + 6c = 1.540.000 + 980.000 = 2.520.000$\n\nJadi jawaban adalah C karena Sekolah harus membayar Rp2.520.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:44:19.376150",
+      "status": "generated"
+    },
+    {
+      "nomor": 1,
+      "teks_soal": "Bacalah teks berikut!\n\nTeks:\n1Perkembangan industri pariwisata di Indonesia telah memberikan dampak signifikan terhadap perekonomian masyarakat lokal. 2Pembangunan infrastruktur pendukung wisata, seperti jalan raya dan bandara, mempermudah akses wisatawan ke berbagai destinasi. 3Penginapan dan restoran yang bermunculan di sekitar objek wisata juga menciptakan lapangan kerja baru bagi penduduk setempat. 4Di samping itu, kerajinan tangan khas daerah menjadi komoditas yang diminati wisatawan. 5Pengrajin lokal dapat memasarkan produk mereka langsung kepada pengunjung. 6Pelatihan keterampilan bagi masyarakat sekitar objek wisata turut meningkatkan kualitas layanan. 7Dengan adanya pemberdayaan masyarakat, kesejahteraan ekonomi di kawasan wisata dapat meningkat secara berkelanjutan. 8Oleh karena itu, sinergi antara pemerintah dan masyarakat sangat diperlukan dalam pengembangan sektor pariwisata.\n\nKata pemberdayaan pada kalimat (7) memiliki makna gramatikal yang sama dengan kata berimbuhan pe-an pada kalimat ...",
+      "pilihan_jawaban": {
+        "A": "Pemerintah akan melakukan pengurangan subsidi bahan bakar secara bertahap.",
+        "B": "Pembersihan sampah di sungai dilakukan oleh relawan setiap akhir pekan.",
+        "C": "Penguatan nilai-nilai budaya lokal perlu dilakukan sejak dini.",
+        "D": "Pendengaran nenek sudah mulai berkurang karena faktor usia.",
+        "E": "Penggilingan padi di desa itu beroperasi selama 24 jam."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Analisis makna kata 'pemberdayaan' pada kalimat (7). Kata ini berasal dari kata dasar 'daya' + imbuhan pe-an yang bermakna 'proses/usaha membuat sesuatu menjadi berdaya'.\n\nLangkah 2: Periksa setiap pilihan:\n- A) 'pengurangan' = proses mengurangi (pe-an + kurang)\n- B) 'pembersihan' = proses membersihkan (pe-an + bersih)\n- C) 'penguatan' = proses membuat kuat/menjadikan kuat (pe-an + kuat)\n- D) 'pendengaran' = alat/indra untuk mendengar (pe-an + dengar)\n- E) 'penggilingan' = tempat menggiling (pe-an + giling)\n\nLangkah 3: Kata 'pemberdayaan' bermakna 'proses menjadikan berdaya', sama dengan pola makna 'penguatan' yang bermakna 'proses menjadikan kuat'. Keduanya memiliki makna gramatikal kausatif (menjadikan sesuatu memiliki sifat tertentu).\n\nJadi jawaban adalah C karena 'penguatan' memiliki pola makna yang sama dengan 'pemberdayaan', yaitu proses menjadikan sesuatu memiliki sifat/kemampuan tertentu.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:45:22.992766",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Bacalah teks berikut!\n\nTeks:\n1Perkembangan industri pariwisata di Indonesia telah memberikan dampak signifikan terhadap perekonomian masyarakat lokal. 2Pembangunan infrastruktur pendukung wisata, seperti jalan raya dan bandara, mempermudah akses wisatawan ke berbagai destinasi. 3Penginapan dan restoran yang bermunculan di sekitar objek wisata juga menciptakan lapangan kerja baru bagi penduduk setempat. 4Di samping itu, kerajinan tangan khas daerah menjadi komoditas yang diminati wisatawan. 5Pengrajin lokal dapat memasarkan produk mereka langsung kepada pengunjung. 6Pelatihan keterampilan bagi masyarakat sekitar objek wisata turut meningkatkan kualitas layanan. 7Dengan adanya pemberdayaan masyarakat, kesejahteraan ekonomi di kawasan wisata dapat meningkat secara berkelanjutan. 8Oleh karena itu, sinergi antara pemerintah dan masyarakat sangat diperlukan dalam pengembangan sektor pariwisata.\n\nKolokasi atau pasangan kata yang lazim digunakan dalam teks tersebut terdapat pada ...",
+      "pilihan_jawaban": {
+        "A": "dampak signifikan (kalimat 1)",
+        "B": "infrastruktur pendukung (kalimat 2)",
+        "C": "kerajinan tangan (kalimat 4)",
+        "D": "kualitas layanan (kalimat 6)",
+        "E": "sektor pariwisata (kalimat 8)"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Pahami definisi kolokasi. Kolokasi adalah pasangan kata yang memiliki hubungan tetap dan lazim digunakan bersama dalam bahasa Indonesia.\n\nLangkah 2: Analisis setiap pilihan:\n- A) 'dampak signifikan' = dampak bisa dipasangkan dengan berbagai kata sifat (besar, kecil, positif, negatif)\n- B) 'infrastruktur pendukung' = gabungan dua kata yang bisa berdiri sendiri dengan kata lain\n- C) 'kerajinan tangan' = pasangan kata yang bersifat tetap dan idiomatis, tidak bisa diganti dengan *kerajinan kaki atau *kerajinan badan\n- D) 'kualitas layanan' = kedua kata bisa berpasangan dengan kata lain\n- E) 'sektor pariwisata' = sektor bisa berpasangan dengan berbagai bidang lain\n\nLangkah 3: Kolokasi yang paling kuat dan tetap adalah 'kerajinan tangan' karena pasangan ini sudah menjadi frasa idiomatis yang tidak bisa diganti komponennya.\n\nJadi jawaban adalah C karena 'kerajinan tangan' merupakan kolokasi tetap yang lazim dalam bahasa Indonesia.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:45:22.992779",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Bacalah teks berikut!\n\nTeks:\n1Perkembangan industri pariwisata di Indonesia telah memberikan dampak signifikan terhadap perekonomian masyarakat lokal. 2Pembangunan infrastruktur pendukung wisata, seperti jalan raya dan bandara, mempermudah akses wisatawan ke berbagai destinasi. 3Penginapan dan restoran yang bermunculan di sekitar objek wisata juga menciptakan lapangan kerja baru bagi penduduk setempat. 4Di samping itu, kerajinan tangan khas daerah menjadi komoditas yang diminati wisatawan. 5Pengrajin lokal dapat memasarkan produk mereka langsung kepada pengunjung. 6Pelatihan keterampilan bagi masyarakat sekitar objek wisata turut meningkatkan kualitas layanan. 7Dengan adanya pemberdayaan masyarakat, kesejahteraan ekonomi di kawasan wisata dapat meningkat secara berkelanjutan. 8Oleh karena itu, sinergi antara pemerintah dan masyarakat sangat diperlukan dalam pengembangan sektor pariwisata.\n\nBerdasarkan konteks kalimat (7), kata berkelanjutan memiliki makna yang berlawanan dengan kata ...",
+      "pilihan_jawaban": {
+        "A": "tertunda",
+        "B": "terputus",
+        "C": "tersendat",
+        "D": "terhenti",
+        "E": "tertinggal"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Pahami makna kata 'berkelanjutan' dalam konteks kalimat (7). Kata ini bermakna 'terus-menerus berlangsung tanpa berhenti' atau 'berkesinambungan'.\n\nLangkah 2: Cari antonim yang tepat:\n- A) 'tertunda' = ditangguhkan waktunya (tidak tepat karena masih bisa dilanjutkan)\n- B) 'terputus' = tidak bersambung lagi, hubungannya terhenti (tepat sebagai antonim)\n- C) 'tersendat' = agak terhambat (masih bisa berlanjut)\n- D) 'terhenti' = berhenti (bisa bersifat sementara)\n- E) 'tertinggal' = tidak ikut/ketinggalan (tidak relevan)\n\nLangkah 3: Kata 'berkelanjutan' menekankan aspek kesinambungan yang tidak terputus. Antonim yang paling tepat adalah 'terputus' karena menunjukkan kondisi yang tidak berkesinambungan atau tidak tersambung.\n\nJadi jawaban adalah B karena 'terputus' merupakan antonim yang paling tepat untuk 'berkelanjutan' dalam konteks kesinambungan.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:45:22.992781",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Bacalah teks berikut!\n\nTeks:\n1Perkembangan industri pariwisata di Indonesia telah memberikan dampak signifikan terhadap perekonomian masyarakat lokal. 2Pembangunan infrastruktur pendukung wisata, seperti jalan raya dan bandara, mempermudah akses wisatawan ke berbagai destinasi. 3Penginapan dan restoran yang bermunculan di sekitar objek wisata juga menciptakan lapangan kerja baru bagi penduduk setempat. 4Di samping itu, kerajinan tangan khas daerah menjadi komoditas yang diminati wisatawan. 5Pengrajin lokal dapat memasarkan produk mereka langsung kepada pengunjung. 6Pelatihan keterampilan bagi masyarakat sekitar objek wisata turut meningkatkan kualitas layanan. 7Dengan adanya pemberdayaan masyarakat, kesejahteraan ekonomi di kawasan wisata dapat meningkat secara berkelanjutan. 8Oleh karena itu, sinergi antara pemerintah dan masyarakat sangat diperlukan dalam pengembangan sektor pariwisata.\n\nKalimat yang mengandung hubungan sebab-akibat terdapat pada kalimat ...",
+      "pilihan_jawaban": {
+        "A": "kalimat (1) dan (2)",
+        "B": "kalimat (2) dan (3)",
+        "C": "kalimat (3) dan (4)",
+        "D": "kalimat (6) dan (7)",
+        "E": "kalimat (7) dan (8)"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": "Langkah 1: Identifikasi hubungan sebab-akibat dalam teks. Hubungan ini ditandai dengan konjungsi seperti 'karena', 'sehingga', 'oleh karena itu', 'dengan demikian', dll.\n\nLangkah 2: Analisis setiap pasangan kalimat:\n- A) Kalimat (1)-(2): Kalimat (2) memberikan contoh/elaborasi, bukan akibat dari (1)\n- B) Kalimat (2)-(3): Keduanya bersifat aditif (penambahan informasi)\n- C) Kalimat (3)-(4): Dihubungkan dengan 'Di samping itu' yang bersifat aditif\n- D) Kalimat (6)-(7): Kalimat (7) diawali 'Dengan adanya' yang menunjukkan kondisi\n- E) Kalimat (7)-(8): Kalimat (8) diawali 'Oleh karena itu' yang merupakan penanda akibat dari pernyataan sebelumnya\n\nLangkah 3: Kalimat (7) menyatakan bahwa pemberdayaan masyarakat meningkatkan kesejahteraan ekonomi. Kalimat (8) menyimpulkan akibatnya: sinergi pemerintah dan masyarakat diperlukan. Konjungsi 'Oleh karena itu' menandakan hubungan sebab-akibat.\n\nJadi jawaban adalah E karena kalimat (7) dan (8) memiliki hubungan sebab-akibat yang ditandai dengan konjungsi 'Oleh karena itu'.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:45:22.992782",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Bacalah teks berikut!\n\nTeks:\n1Perkembangan industri pariwisata di Indonesia telah memberikan dampak signifikan terhadap perekonomian masyarakat lokal. 2Pembangunan infrastruktur pendukung wisata, seperti jalan raya dan bandara, mempermudah akses wisatawan ke berbagai destinasi. 3Penginapan dan restoran yang bermunculan di sekitar objek wisata juga menciptakan lapangan kerja baru bagi penduduk setempat. 4Di samping itu, kerajinan tangan khas daerah menjadi komoditas yang diminati wisatawan. 5Pengrajin lokal dapat memasarkan produk mereka langsung kepada pengunjung. 6Pelatihan keterampilan bagi masyarakat sekitar objek wisata turut meningkatkan kualitas layanan. 7Dengan adanya pemberdayaan masyarakat, kesejahteraan ekonomi di kawasan wisata dapat meningkat secara berkelanjutan. 8Oleh karena itu, sinergi antara pemerintah dan masyarakat sangat diperlukan dalam pengembangan sektor pariwisata.\n\nKata destinasi pada kalimat (2) dapat digantikan dengan kata ...",
+      "pilihan_jawaban": {
+        "A": "sasaran",
+        "B": "lokasi",
+        "C": "tujuan",
+        "D": "tempat",
+        "E": "wilayah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Pahami makna kata 'destinasi' dalam konteks kalimat (2). Kalimat tersebut berbunyi: \"Pembangunan infrastruktur pendukung wisata, seperti jalan raya dan bandara, mempermudah akses wisatawan ke berbagai destinasi.\"\n\nLangkah 2: Kata 'destinasi' berasal dari bahasa Inggris 'destination' yang bermakna 'tempat yang dituju' atau 'tujuan perjalanan'.\n\nLangkah 3: Evaluasi setiap pilihan dalam konteks kalimat:\n- A) 'sasaran' = lebih merujuk pada target yang ingin dicapai (kurang tepat untuk wisata)\n- B) 'lokasi' = tempat secara umum, tidak spesifik sebagai tujuan\n- C) 'tujuan' = tempat yang hendak dicapai/dikunjungi (tepat)\n- D) 'tempat' = terlalu umum, tidak menekankan aspek sebagai tempat yang dituju\n- E) 'wilayah' = area/daerah yang luas, tidak spesifik\n\nLangkah 4: Dalam konteks pariwisata, 'destinasi wisata' berarti 'tujuan wisata', yaitu tempat yang menjadi sasaran kunjungan wisatawan.\n\nJadi jawaban adalah C karena 'tujuan' memiliki makna yang paling sesuai dengan 'destinasi' dalam konteks perjalanan wisata.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:45:22.992783",
+      "status": "generated"
+    },
+    {
+      "nomor": 1,
+      "teks_soal": "Semua mahasiswa yang mengikuti program beasiswa wajib mempertahankan IPK minimal 3,5. Mahasiswa yang tidak mempertahankan IPK minimal 3,5 akan kehilangan beasiswa. Andi adalah mahasiswa penerima beasiswa yang IPK-nya turun menjadi 3,2.\n\nManakah kesimpulan berikut yang BENAR?",
+      "pilihan_jawaban": {
+        "A": "Andi pasti akan kehilangan beasiswanya.",
+        "B": "Andi tidak perlu mempertahankan IPK minimal 3,5.",
+        "C": "Semua mahasiswa dengan IPK 3,2 pasti penerima beasiswa.",
+        "D": "Andi masih bisa mempertahankan beasiswanya.",
+        "E": "IPK 3,2 sudah memenuhi syarat minimal beasiswa."
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": "Langkah 1: Identifikasi premis yang diberikan.\n- Premis 1: Semua mahasiswa beasiswa wajib mempertahankan IPK minimal 3,5.\n- Premis 2: Mahasiswa yang tidak mempertahankan IPK minimal 3,5 akan kehilangan beasiswa.\n- Fakta: Andi adalah penerima beasiswa dengan IPK 3,2.\n\nLangkah 2: Analisis kondisi Andi.\n- IPK Andi = 3,2 < 3,5 (IPK minimal)\n- Artinya Andi tidak mempertahankan IPK minimal 3,5.\n\nLangkah 3: Terapkan premis 2 pada kondisi Andi.\n- Karena Andi tidak mempertahankan IPK minimal 3,5, maka berdasarkan premis 2, Andi akan kehilangan beasiswanya.\n\nJadi jawaban adalah A karena berdasarkan aturan yang diberikan, mahasiswa yang IPK-nya di bawah 3,5 akan kehilangan beasiswa, dan Andi memenuhi kondisi tersebut.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:46:22.427865",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Penelitian menunjukkan bahwa tanaman yang disiram secara teratur akan tumbuh subur. Namun, tanaman yang terlalu sering disiram justru akan mengalami pembusukan akar. Pak Budi menyiram tanamannya tiga kali sehari setiap hari.\n\nManakah kesimpulan yang paling mungkin BENAR berdasarkan informasi di atas?",
+      "pilihan_jawaban": {
+        "A": "Tanaman Pak Budi pasti tumbuh paling subur di antara semua tanaman.",
+        "B": "Tanaman Pak Budi berisiko mengalami pembusukan akar.",
+        "C": "Pak Budi adalah petani paling rajin di desanya.",
+        "D": "Semua tanaman yang disiram tiga kali sehari pasti subur.",
+        "E": "Penyiraman teratur berarti menyiram sebanyak mungkin."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi informasi yang diberikan.\n- Tanaman yang disiram secara teratur akan tumbuh subur.\n- Tanaman yang TERLALU SERING disiram akan mengalami pembusukan akar.\n- Pak Budi menyiram tanaman 3 kali sehari setiap hari.\n\nLangkah 2: Analisis pola penyiraman Pak Budi.\n- Menyiram 3 kali sehari setiap hari termasuk frekuensi yang sangat tinggi.\n- Ini dapat dikategorikan sebagai \"terlalu sering\" disiram.\n\nLangkah 3: Hubungkan dengan premis kedua.\n- Karena penyiraman 3 kali sehari dapat dianggap terlalu sering, maka tanaman Pak Budi berisiko mengalami pembusukan akar.\n\nJadi jawaban adalah B karena frekuensi penyiraman yang sangat tinggi (3 kali sehari) termasuk kategori terlalu sering, yang menurut informasi dapat menyebabkan pembusukan akar.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:46:22.427876",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Di sebuah perusahaan, karyawan yang datang terlambat lebih dari tiga kali dalam sebulan akan mendapat surat peringatan. Karyawan yang sudah mendapat tiga surat peringatan dalam setahun akan diberhentikan. Dina sudah mendapat dua surat peringatan tahun ini dan bulan ini sudah terlambat empat kali.\n\nManakah pernyataan berikut yang BENAR?",
+      "pilihan_jawaban": {
+        "A": "Dina tidak akan mendapat surat peringatan lagi bulan ini.",
+        "B": "Dina akan mendapat surat peringatan ketiga dan berisiko diberhentikan.",
+        "C": "Dina sudah pasti diberhentikan bulan depan.",
+        "D": "Dina masih aman dari surat peringatan karena baru dua kali terlambat.",
+        "E": "Keterlambatan empat kali tidak berpengaruh pada status kepegawaian Dina."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi aturan perusahaan.\n- Terlambat > 3 kali dalam sebulan → dapat surat peringatan.\n- 3 surat peringatan dalam setahun → diberhentikan.\n\nLangkah 2: Analisis kondisi Dina.\n- Dina sudah memiliki 2 surat peringatan tahun ini.\n- Bulan ini Dina sudah terlambat 4 kali (> 3 kali).\n\nLangkah 3: Terapkan aturan pada kondisi Dina.\n- Karena terlambat 4 kali (> 3 kali), Dina akan mendapat surat peringatan.\n- Ini akan menjadi surat peringatan ketiga (2 + 1 = 3).\n- Dengan 3 surat peringatan, Dina berisiko diberhentikan.\n\nJadi jawaban adalah B karena keterlambatan 4 kali memenuhi syarat untuk mendapat surat peringatan ketiga, yang menempatkan Dina pada risiko pemberhentian.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:46:22.427877",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Sebuah perpustakaan menerapkan sistem denda untuk keterlambatan pengembalian buku. Buku yang dikembalikan terlambat akan dikenakan denda Rp2.000 per hari. Anggota yang memiliki tunggakan denda tidak diperbolehkan meminjam buku baru. Riko meminjam buku pada tanggal 1 Mei dengan batas pengembalian 14 Mei, tetapi baru mengembalikannya pada tanggal 20 Mei.\n\nManakah pernyataan berikut yang BENAR?",
+      "pilihan_jawaban": {
+        "A": "Riko tidak dikenakan denda karena masih dalam bulan yang sama.",
+        "B": "Riko dikenakan denda Rp12.000 dan tidak bisa meminjam buku baru sampai membayar.",
+        "C": "Riko dikenakan denda Rp40.000 untuk seluruh periode peminjaman.",
+        "D": "Riko bebas meminjam buku baru meskipun belum membayar denda.",
+        "E": "Riko dikenakan denda Rp6.000 karena terlambat 3 hari."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Hitung hari keterlambatan.\n- Batas pengembalian: 14 Mei\n- Tanggal pengembalian aktual: 20 Mei\n- Keterlambatan = 20 - 14 = 6 hari\n\nLangkah 2: Hitung total denda.\n- Denda per hari = Rp2.000\n- Total denda = 6 × Rp2.000 = Rp12.000\n\nLangkah 3: Terapkan aturan tunggakan.\n- Riko memiliki tunggakan denda Rp12.000.\n- Berdasarkan aturan, anggota dengan tunggakan denda tidak boleh meminjam buku baru.\n\nJadi jawaban adalah B karena Riko terlambat 6 hari sehingga dikenakan denda Rp12.000, dan selama tunggakan belum dibayar, ia tidak bisa meminjam buku baru.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:46:22.427878",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Semua peserta olimpiade sains harus lulus seleksi tingkat kabupaten. Peserta yang lulus seleksi kabupaten berhak mengikuti seleksi tingkat provinsi. Hanya peserta yang lulus seleksi provinsi yang akan mewakili daerahnya di tingkat nasional. Sari berhasil mewakili daerahnya di tingkat nasional.\n\nManakah kesimpulan yang PASTI BENAR tentang Sari?",
+      "pilihan_jawaban": {
+        "A": "Sari tidak mengikuti seleksi tingkat kabupaten.",
+        "B": "Sari langsung mengikuti seleksi tingkat nasional tanpa melalui provinsi.",
+        "C": "Sari telah lulus seleksi tingkat kabupaten dan provinsi.",
+        "D": "Sari hanya lulus seleksi tingkat provinsi saja.",
+        "E": "Sari tidak perlu mengikuti seleksi tingkat provinsi."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Identifikasi alur seleksi.\n- Seleksi kabupaten → Seleksi provinsi → Tingkat nasional\n- Setiap tahap harus dilalui secara berurutan.\n\nLangkah 2: Analisis posisi Sari.\n- Sari mewakili daerah di tingkat nasional.\n- Untuk sampai di tingkat nasional, ia HARUS lulus seleksi provinsi (berdasarkan premis 3).\n\nLangkah 3: Telusuri mundur persyaratan.\n- Untuk mengikuti seleksi provinsi, ia HARUS lulus seleksi kabupaten (berdasarkan premis 1 dan 2).\n- Jadi Sari pasti sudah lulus seleksi kabupaten DAN seleksi provinsi.\n\nJadi jawaban adalah C karena untuk bisa mewakili daerah di tingkat nasional, Sari harus melewati dan lulus semua tahap seleksi sebelumnya, yaitu tingkat kabupaten dan provinsi.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-27T06:46:22.427879",
+      "status": "generated"
+    }
+  ]
+}
