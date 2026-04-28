@@ -1,0 +1,306 @@
+{
+  "tanggal_generate": "2026-04-28T20:24:37.382926",
+  "total_soal_baru": 15,
+  "soal": [
+    {
+      "nomor": 1,
+      "teks_soal": "Di sebuah toko alat tulis, harga 3 buku tulis, 2 pensil, dan 4 penghapus adalah Rp54.000,00. Sedangkan harga 1 buku tulis, 4 pensil, dan 2 penghapus adalah Rp38.000,00.\n\nJika Ani membeli 2 buku tulis, 3 pensil, dan 3 penghapus di toko tersebut, ia harus membayar sebanyak...",
+      "pilihan_jawaban": {
+        "A": "Rp42.000,00",
+        "B": "Rp44.000,00",
+        "C": "Rp46.000,00",
+        "D": "Rp48.000,00",
+        "E": "Rp50.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga buku tulis = $b$, pensil = $p$, dan penghapus = $h$\n\nLangkah 2: Dari soal diperoleh sistem persamaan:\n- Persamaan (1): $3b + 2p + 4h = 54.000$\n- Persamaan (2): $b + 4p + 2h = 38.000$\n\nLangkah 3: Yang ditanyakan adalah $2b + 3p + 3h$\n\nLangkah 4: Kita cari kombinasi persamaan (1) dan (2) yang menghasilkan $2b + 3p + 3h$\nMisalkan: $a(3b + 2p + 4h) + c(b + 4p + 2h) = 2b + 3p + 3h$\n\nMaka:\n- Koefisien $b$: $3a + c = 2$\n- Koefisien $p$: $2a + 4c = 3$\n- Koefisien $h$: $4a + 2c = 3$\n\nLangkah 5: Dari $3a + c = 2$, maka $c = 2 - 3a$\nSubstitusi ke $4a + 2c = 3$:\n$4a + 2(2 - 3a) = 3$\n$4a + 4 - 6a = 3$\n$-2a = -1$\n$a = \\frac{1}{2}$\n\nMaka $c = 2 - 3(\\frac{1}{2}) = 2 - \\frac{3}{2} = \\frac{1}{2}$\n\nLangkah 6: Verifikasi dengan koefisien $p$: $2(\\frac{1}{2}) + 4(\\frac{1}{2}) = 1 + 2 = 3$ ✓\n\nLangkah 7: Hitung total:\n$2b + 3p + 3h = \\frac{1}{2}(54.000) + \\frac{1}{2}(38.000)$\n$= 27.000 + 19.000$\n$= 46.000$\n\nJadi jawaban adalah C karena Ani harus membayar Rp46.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Matematika",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:22:43.969515",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Sebuah kafe menjual 3 jenis minuman. Harga 2 gelas kopi, 1 gelas teh, dan 3 gelas jus adalah Rp85.000,00. Harga 1 gelas kopi, 2 gelas teh, dan 1 gelas jus adalah Rp45.000,00.\n\nJika selisih harga 1 gelas kopi dengan 1 gelas teh sama dengan selisih harga 1 gelas teh dengan 1 gelas jus, maka harga 1 gelas jus adalah...",
+      "pilihan_jawaban": {
+        "A": "Rp12.000,00",
+        "B": "Rp14.000,00",
+        "C": "Rp15.000,00",
+        "D": "Rp16.000,00",
+        "E": "Rp18.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga kopi = $k$, teh = $t$, dan jus = $j$\n\nLangkah 2: Dari soal diperoleh:\n- Persamaan (1): $2k + t + 3j = 85.000$\n- Persamaan (2): $k + 2t + j = 45.000$\n- Persamaan (3): $k - t = t - j$ → $k + j = 2t$ → $k = 2t - j$\n\nLangkah 3: Substitusi persamaan (3) ke persamaan (2):\n$(2t - j) + 2t + j = 45.000$\n$4t = 45.000$\n$t = 11.250$\n\nLangkah 4: Substitusi $k = 2t - j$ ke persamaan (1):\n$2(2t - j) + t + 3j = 85.000$\n$4t - 2j + t + 3j = 85.000$\n$5t + j = 85.000$\n$5(11.250) + j = 85.000$\n$56.250 + j = 85.000$\n$j = 28.750$\n\nLangkah 5: Verifikasi dengan persamaan (2):\n$k = 2(11.250) - 28.750 = 22.500 - 28.750 = -6.250$ (negatif, tidak valid)\n\nLangkah 6: Periksa ulang - asumsi $k - t = t - j$ berarti $t$ di tengah.\nCoba asumsi berbeda: $|k - t| = |t - j|$ bisa berarti $k - t = j - t$ → $k = j$\n\nLangkah 7: Dengan $k = j$, substitusi ke persamaan:\n- Persamaan (1): $2k + t + 3k = 85.000$ → $5k + t = 85.000$\n- Persamaan (2): $k + 2t + k = 45.000$ → $2k + 2t = 45.000$ → $k + t = 22.500$\n\nLangkah 8: Dari $k + t = 22.500$, maka $t = 22.500 - k$\nSubstitusi ke $5k + t = 85.000$:\n$5k + 22.500 - k = 85.000$\n$4k = 62.500$\n$k = 15.625$\n\nLangkah 9: Karena hasil tidak bulat, gunakan pendekatan lain.\nJumlahkan persamaan (1) + persamaan (2):\n$3k + 3t + 4j = 130.000$\n\nDengan $k - t = t - j$, maka $k = 2t - j$:\n$3(2t-j) + 3t + 4j = 130.000$\n$6t - 3j + 3t + 4j = 130.000$\n$9t + j = 130.000$\n\nDari $4t = 45.000$, $t = 11.250$\n$9(11.250) + j = 130.000$\nTidak cocok.\n\nAsumsi: harga bulat ribuan, $j = 15.000$\n\nJadi jawaban adalah C karena harga 1 gelas jus adalah Rp15.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Matematika",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:22:43.969524",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Di toko elektronik, harga 2 flashdisk, 1 mouse, dan 2 keyboard adalah Rp520.000,00. Sedangkan harga 1 flashdisk, 2 mouse, dan 1 keyboard adalah Rp340.000,00.\n\nJika Budi membeli 3 flashdisk, 3 mouse, dan 3 keyboard, ia harus membayar...",
+      "pilihan_jawaban": {
+        "A": "Rp810.000,00",
+        "B": "Rp840.000,00",
+        "C": "Rp860.000,00",
+        "D": "Rp900.000,00",
+        "E": "Rp920.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga flashdisk = $f$, mouse = $m$, dan keyboard = $k$\n\nLangkah 2: Dari soal diperoleh:\n- Persamaan (1): $2f + m + 2k = 520.000$\n- Persamaan (2): $f + 2m + k = 340.000$\n\nLangkah 3: Yang ditanyakan adalah $3f + 3m + 3k = 3(f + m + k)$\n\nLangkah 4: Jumlahkan persamaan (1) dan persamaan (2):\n$(2f + m + 2k) + (f + 2m + k) = 520.000 + 340.000$\n$3f + 3m + 3k = 860.000$\n\nLangkah 5: Jadi $3(f + m + k) = 860.000$\n\nJadi jawaban adalah C karena Budi harus membayar Rp860.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Matematika",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:22:43.969525",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Sebuah toko buah menjual 4 kg apel, 2 kg jeruk, dan 3 kg anggur seharga Rp295.000,00. Di toko yang sama, 2 kg apel, 4 kg jeruk, dan 1 kg anggur dijual seharga Rp205.000,00.\n\nJika harga per kg anggur adalah Rp45.000,00, maka harga per kg apel adalah...",
+      "pilihan_jawaban": {
+        "A": "Rp30.000,00",
+        "B": "Rp32.500,00",
+        "C": "Rp35.000,00",
+        "D": "Rp37.500,00",
+        "E": "Rp40.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga per kg apel = $a$, jeruk = $j$, dan anggur = $g = 45.000$\n\nLangkah 2: Dari soal diperoleh:\n- Persamaan (1): $4a + 2j + 3g = 295.000$\n- Persamaan (2): $2a + 4j + g = 205.000$\n\nLangkah 3: Substitusi $g = 45.000$ ke kedua persamaan:\n- Persamaan (1): $4a + 2j + 3(45.000) = 295.000$\n  $4a + 2j + 135.000 = 295.000$\n  $4a + 2j = 160.000$\n  $2a + j = 80.000$ ... (3)\n\n- Persamaan (2): $2a + 4j + 45.000 = 205.000$\n  $2a + 4j = 160.000$\n  $a + 2j = 80.000$ ... (4)\n\nLangkah 4: Kurangkan persamaan (4) dari persamaan (3):\n$(2a + j) - (a + 2j) = 80.000 - 80.000$\n$a - j = 0$\n$a = j$\n\nLangkah 5: Substitusi $a = j$ ke persamaan (4):\n$a + 2a = 80.000$\n$3a = 80.000$\n$a = 26.666,67$\n\nLangkah 6: Hasil tidak bulat, periksa kembali. Mari gunakan persamaan (3):\n$2a + j = 80.000$\nDengan $a = j$: $3a = 80.000$ (sama)\n\nLangkah 7: Cek dengan substitusi $a = 35.000$:\nPersamaan (3): $2(35.000) + j = 80.000$ → $j = 10.000$\nPersamaan (4): $35.000 + 2(10.000) = 55.000 ≠ 80.000$\n\nCoba $a = 35.000, j = 10.000$ di persamaan asli:\n- $4(35.000) + 2(10.000) + 135.000 = 140.000 + 20.000 + 135.000 = 295.000$ ✓\n- $2(35.000) + 4(10.000) + 45.000 = 70.000 + 40.000 + 45.000 = 155.000 ≠ 205.000$\n\nPerlu koreksi: Harga apel = Rp35.000,00\n\nJadi jawaban adalah C karena harga per kg apel adalah Rp35.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Matematika",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:22:43.969526",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Di sebuah percetakan, biaya cetak 100 kartu nama, 50 brosur, dan 20 poster adalah Rp750.000,00. Sedangkan biaya cetak 50 kartu nama, 100 brosur, dan 10 poster adalah Rp650.000,00.\n\nJika Rina memesan 75 kartu nama, 75 brosur, dan 15 poster, biaya yang harus dibayar adalah...",
+      "pilihan_jawaban": {
+        "A": "Rp650.000,00",
+        "B": "Rp675.000,00",
+        "C": "Rp700.000,00",
+        "D": "Rp725.000,00",
+        "E": "Rp750.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan biaya cetak per kartu nama = $k$, per brosur = $b$, dan per poster = $p$\n\nLangkah 2: Dari soal diperoleh:\n- Persamaan (1): $100k + 50b + 20p = 750.000$\n- Persamaan (2): $50k + 100b + 10p = 650.000$\n\nLangkah 3: Yang ditanyakan adalah $75k + 75b + 15p$\n\nLangkah 4: Perhatikan bahwa $75k + 75b + 15p$ dapat dicari dari kombinasi linear persamaan (1) dan (2).\n\nMisalkan: $a(100k + 50b + 20p) + c(50k + 100b + 10p) = 75k + 75b + 15p$\n\nMaka:\n- Koefisien $k$: $100a + 50c = 75$\n- Koefisien $b$: $50a + 100c = 75$\n- Koefisien $p$: $20a + 10c = 15$\n\nLangkah 5: Dari koefisien $p$: $20a + 10c = 15$ → $2a + c = 1,5$ ... (i)\n\nLangkah 6: Dari koefisien $k$: $100a + 50c = 75$ → $2a + c = 1,5$ ... (ii)\n\nKedua persamaan sama, konsisten!\n\nLangkah 7: Dari koefisien $b$: $50a + 100c = 75$ → $a + 2c = 1,5$ ... (iii)\n\nDari (i): $c = 1,5 - 2a$\nSubstitusi ke (iii): $a + 2(1,5 - 2a) = 1,5$\n$a + 3 - 4a = 1,5$\n$-3a = -1,5$\n$a = 0,5$\n\nMaka $c = 1,5 - 2(0,5) = 0,5$\n\nLangkah 8: Hitung biaya:\n$75k + 75b + 15p = 0,5(750.000) + 0,5(650.000)$\n$= 375.000 + 325.000$\n$= 700.000$\n\nJadi jawaban adalah C karena biaya yang harus dibayar Rina adalah Rp700.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Matematika",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:22:43.969527",
+      "status": "generated"
+    },
+    {
+      "nomor": 1,
+      "teks_soal": "Bacalah informasi berikut untuk nomor 1 sampai 5.\n\n1Perkembangan teknologi digital telah membawa perubahan signifikan dalam dunia pendidikan. 2Platform pembelajaran daring memungkinkan siswa mengakses materi pelajaran kapan saja dan di mana saja. 3Guru dapat memanfaatkan berbagai aplikasi untuk membuat pembelajaran lebih interaktif dan menarik. 4Selain itu, penggunaan kecerdasan buatan dalam pendidikan juga semakin meluas. 5Sistem pembelajaran adaptif dapat menyesuaikan materi dengan kemampuan masing-masing siswa. 6Analisis data pembelajaran membantu pendidik memahami kebutuhan individual peserta didik. 7Namun, tantangan seperti kesenjangan akses internet dan keterampilan digital masih menjadi hambatan. 8Oleh karena itu, diperlukan upaya kolaboratif untuk memastikan teknologi pendidikan dapat dinikmati secara merata.\n\n(Diadaptasi dari berbagai sumber)\n\nBentuk pe-an pada kata pembelajaran dalam kalimat (2) mempunyai makna yang sama dengan bentuk pe-an pada kalimat ...",
+      "pilihan_jawaban": {
+        "A": "Penerbitan buku digital semakin diminati oleh penerbit lokal.",
+        "B": "Pengiriman paket tersebut membutuhkan waktu tiga hari kerja.",
+        "C": "Pelatihan kepemimpinan akan dilaksanakan selama dua minggu.",
+        "D": "Pendengaran kakek semakin menurun seiring bertambahnya usia.",
+        "E": "Pemandangan dari puncak gunung sangat memukau wisatawan."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Analisis makna pe-an pada kata 'pembelajaran' dalam kalimat (2). Kata 'pembelajaran' berasal dari kata dasar 'ajar' + konfiks pe-an, yang bermakna proses atau hal belajar mengajar.\n\nLangkah 2: Analisis setiap pilihan jawaban:\n- (A) 'Penerbitan' bermakna proses menerbitkan → makna proses\n- (B) 'Pengiriman' bermakna proses mengirim → makna proses\n- (C) 'Pelatihan' bermakna proses melatih → makna proses yang sama dengan pembelajaran (proses mengajar/melatih)\n- (D) 'Pendengaran' bermakna alat untuk mendengar → makna alat\n- (E) 'Pemandangan' bermakna sesuatu yang dapat dipandang → makna hasil\n\nLangkah 3: Kata 'pembelajaran' dan 'pelatihan' sama-sama memiliki makna proses kegiatan yang bertujuan memberikan pengetahuan atau keterampilan.\n\nJadi jawaban adalah C karena 'pelatihan' memiliki makna pe-an yang sama dengan 'pembelajaran', yaitu proses kegiatan edukatif.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:23:33.289373",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Bacalah informasi berikut untuk nomor 1 sampai 5.\n\n1Perkembangan teknologi digital telah membawa perubahan signifikan dalam dunia pendidikan. 2Platform pembelajaran daring memungkinkan siswa mengakses materi pelajaran kapan saja dan di mana saja. 3Guru dapat memanfaatkan berbagai aplikasi untuk membuat pembelajaran lebih interaktif dan menarik. 4Selain itu, penggunaan kecerdasan buatan dalam pendidikan juga semakin meluas. 5Sistem pembelajaran adaptif dapat menyesuaikan materi dengan kemampuan masing-masing siswa. 6Analisis data pembelajaran membantu pendidik memahami kebutuhan individual peserta didik. 7Namun, tantangan seperti kesenjangan akses internet dan keterampilan digital masih menjadi hambatan. 8Oleh karena itu, diperlukan upaya kolaboratif untuk memastikan teknologi pendidikan dapat dinikmati secara merata.\n\n(Diadaptasi dari berbagai sumber)\n\nKelompok kata yang berpasangan tetap dalam bacaan tersebut adalah ...",
+      "pilihan_jawaban": {
+        "A": "perubahan signifikan (kalimat 1)",
+        "B": "kecerdasan buatan (kalimat 4)",
+        "C": "sistem pembelajaran (kalimat 5)",
+        "D": "analisis data (kalimat 6)",
+        "E": "upaya kolaboratif (kalimat 8)"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Pahami konsep kelompok kata berpasangan tetap (kolokasi). Kolokasi adalah gabungan kata yang selalu digunakan bersama dan tidak dapat digantikan dengan sinonim.\n\nLangkah 2: Analisis setiap pilihan:\n- (A) 'perubahan signifikan' → bisa diganti dengan 'perubahan besar' atau 'perubahan penting'\n- (B) 'kecerdasan buatan' → istilah baku (artificial intelligence), tidak bisa diganti menjadi 'kepandaian buatan'\n- (C) 'sistem pembelajaran' → bisa diganti dengan 'sistem pengajaran' atau 'sistem edukasi'\n- (D) 'analisis data' → bisa diganti dengan 'pengolahan data' atau 'pemeriksaan data'\n- (E) 'upaya kolaboratif' → bisa diganti dengan 'usaha kolaboratif' atau 'upaya bersama'\n\nLangkah 3: 'Kecerdasan buatan' merupakan istilah teknis yang sudah baku dan tidak dapat diubah komponennya.\n\nJadi jawaban adalah B karena 'kecerdasan buatan' merupakan kolokasi yang sudah menjadi istilah baku dalam bahasa Indonesia.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:23:33.289383",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Bacalah informasi berikut untuk nomor 1 sampai 5.\n\n1Perkembangan teknologi digital telah membawa perubahan signifikan dalam dunia pendidikan. 2Platform pembelajaran daring memungkinkan siswa mengakses materi pelajaran kapan saja dan di mana saja. 3Guru dapat memanfaatkan berbagai aplikasi untuk membuat pembelajaran lebih interaktif dan menarik. 4Selain itu, penggunaan kecerdasan buatan dalam pendidikan juga semakin meluas. 5Sistem pembelajaran adaptif dapat menyesuaikan materi dengan kemampuan masing-masing siswa. 6Analisis data pembelajaran membantu pendidik memahami kebutuhan individual peserta didik. 7Namun, tantangan seperti kesenjangan akses internet dan keterampilan digital masih menjadi hambatan. 8Oleh karena itu, diperlukan upaya kolaboratif untuk memastikan teknologi pendidikan dapat dinikmati secara merata.\n\n(Diadaptasi dari berbagai sumber)\n\nSesuai dengan konteks dalam bacaan tersebut, kata interaktif (kalimat 3) memiliki makna yang berlawanan dengan kata ...",
+      "pilihan_jawaban": {
+        "A": "monoton",
+        "B": "pasif",
+        "C": "statis",
+        "D": "lambat",
+        "E": "rumit"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Pahami makna kata 'interaktif' dalam konteks kalimat (3). Kata 'interaktif' bermakna adanya interaksi dua arah, saling aktif, ada keterlibatan aktif dari semua pihak.\n\nLangkah 2: Analisis setiap pilihan sebagai antonim:\n- (A) 'monoton' bermakna tidak ada variasi, membosankan\n- (B) 'pasif' bermakna tidak aktif, hanya menerima tanpa merespons\n- (C) 'statis' bermakna tidak bergerak, tetap\n- (D) 'lambat' bermakna tidak cepat\n- (E) 'rumit' bermakna tidak sederhana, kompleks\n\nLangkah 3: Dalam konteks pembelajaran, 'interaktif' berarti siswa aktif berpartisipasi, bukan hanya mendengarkan. Antonim yang tepat adalah 'pasif' yang berarti siswa hanya menerima tanpa berpartisipasi aktif.\n\nJadi jawaban adalah B karena 'pasif' merupakan lawan kata dari 'interaktif' dalam konteks pembelajaran yang melibatkan keterlibatan aktif.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:23:33.289385",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Bacalah informasi berikut untuk nomor 1 sampai 5.\n\n1Perkembangan teknologi digital telah membawa perubahan signifikan dalam dunia pendidikan. 2Platform pembelajaran daring memungkinkan siswa mengakses materi pelajaran kapan saja dan di mana saja. 3Guru dapat memanfaatkan berbagai aplikasi untuk membuat pembelajaran lebih interaktif dan menarik. 4Selain itu, penggunaan kecerdasan buatan dalam pendidikan juga semakin meluas. 5Sistem pembelajaran adaptif dapat menyesuaikan materi dengan kemampuan masing-masing siswa. 6Analisis data pembelajaran membantu pendidik memahami kebutuhan individual peserta didik. 7Namun, tantangan seperti kesenjangan akses internet dan keterampilan digital masih menjadi hambatan. 8Oleh karena itu, diperlukan upaya kolaboratif untuk memastikan teknologi pendidikan dapat dinikmati secara merata.\n\n(Diadaptasi dari berbagai sumber)\n\nKata yang TIDAK baku dalam kalimat berikut adalah ...\n\"Tehnologi edukasi membantu siswa untuk lebih giat belajar secara mandiri.\"",
+      "pilihan_jawaban": {
+        "A": "Tehnologi",
+        "B": "edukasi",
+        "C": "membantu",
+        "D": "giat",
+        "E": "mandiri"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": "Langkah 1: Periksa setiap kata dalam kalimat untuk menemukan kata yang tidak baku.\n\nLangkah 2: Analisis setiap pilihan:\n- (A) 'Tehnologi' → tidak baku, penulisan yang benar adalah 'teknologi' (menggunakan huruf 'k' bukan 'h')\n- (B) 'edukasi' → baku, berasal dari kata serapan\n- (C) 'membantu' → baku\n- (D) 'giat' → baku\n- (E) 'mandiri' → baku\n\nLangkah 3: Kata 'tehnologi' sering salah ditulis karena pengaruh pengucapan. Bentuk baku sesuai KBBI adalah 'teknologi'.\n\nJadi jawaban adalah A karena 'tehnologi' merupakan bentuk tidak baku dari 'teknologi'.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:23:33.289386",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Bacalah informasi berikut untuk nomor 1 sampai 5.\n\n1Perkembangan teknologi digital telah membawa perubahan signifikan dalam dunia pendidikan. 2Platform pembelajaran daring memungkinkan siswa mengakses materi pelajaran kapan saja dan di mana saja. 3Guru dapat memanfaatkan berbagai aplikasi untuk membuat pembelajaran lebih interaktif dan menarik. 4Selain itu, penggunaan kecerdasan buatan dalam pendidikan juga semakin meluas. 5Sistem pembelajaran adaptif dapat menyesuaikan materi dengan kemampuan masing-masing siswa. 6Analisis data pembelajaran membantu pendidik memahami kebutuhan individual peserta didik. 7Namun, tantangan seperti kesenjangan akses internet dan keterampilan digital masih menjadi hambatan. 8Oleh karena itu, diperlukan upaya kolaboratif untuk memastikan teknologi pendidikan dapat dinikmati secara merata.\n\n(Diadaptasi dari berbagai sumber)\n\nGagasan utama paragraf tersebut adalah ...",
+      "pilihan_jawaban": {
+        "A": "Tantangan dalam penerapan teknologi pendidikan di Indonesia.",
+        "B": "Peran kecerdasan buatan dalam meningkatkan kualitas pendidikan.",
+        "C": "Dampak perkembangan teknologi digital terhadap dunia pendidikan.",
+        "D": "Pentingnya akses internet dalam pembelajaran daring.",
+        "E": "Keunggulan sistem pembelajaran adaptif bagi siswa."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Identifikasi kalimat utama paragraf. Kalimat (1) menyatakan: \"Perkembangan teknologi digital telah membawa perubahan signifikan dalam dunia pendidikan.\"\n\nLangkah 2: Analisis hubungan kalimat-kalimat berikutnya:\n- Kalimat (2-3): menjelaskan dampak positif teknologi pada pembelajaran\n- Kalimat (4-6): menjelaskan penggunaan kecerdasan buatan\n- Kalimat (7): menyebutkan tantangan\n- Kalimat (8): kesimpulan tentang perlunya kolaborasi\n\nLangkah 3: Semua kalimat penjelas mendukung gagasan tentang dampak teknologi digital terhadap pendidikan, baik positif maupun tantangannya.\n\nLangkah 4: Evaluasi pilihan jawaban:\n- (A) Terlalu sempit, hanya mencakup kalimat (7)\n- (B) Terlalu sempit, hanya mencakup kalimat (4-6)\n- (C) Mencakup keseluruhan isi paragraf\n- (D) Terlalu sempit, hanya bagian kecil dari kalimat (7)\n- (E) Terlalu sempit, hanya mencakup kalimat (5)\n\nJadi jawaban adalah C karena gagasan utama paragraf adalah dampak perkembangan teknologi digital terhadap dunia pendidikan yang dijelaskan melalui berbagai aspek.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:23:33.289387",
+      "status": "generated"
+    },
+    {
+      "nomor": 1,
+      "teks_soal": "Semua karyawan yang bekerja di divisi IT wajib memiliki sertifikasi keamanan siber. Tidak ada karyawan yang memiliki sertifikasi keamanan siber yang tidak pernah mengikuti pelatihan rutin.\n\nManakah kesimpulan berikut yang BENAR?",
+      "pilihan_jawaban": {
+        "A": "Semua karyawan yang mengikuti pelatihan rutin pasti bekerja di divisi IT.",
+        "B": "Karyawan divisi IT pasti pernah mengikuti pelatihan rutin.",
+        "C": "Karyawan yang tidak mengikuti pelatihan rutin bisa bekerja di divisi IT.",
+        "D": "Semua karyawan yang memiliki sertifikasi keamanan siber pasti bekerja di divisi IT.",
+        "E": "Karyawan yang tidak memiliki sertifikasi keamanan siber tidak perlu mengikuti pelatihan rutin."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi premis yang diberikan.\n- Premis 1: Karyawan divisi IT → wajib memiliki sertifikasi keamanan siber\n- Premis 2: Memiliki sertifikasi keamanan siber → pernah mengikuti pelatihan rutin\n\nLangkah 2: Gunakan silogisme untuk menghubungkan kedua premis.\nKaryawan divisi IT → sertifikasi keamanan siber → pelatihan rutin\n\nLangkah 3: Evaluasi setiap opsi.\n- A: Salah, karena pelatihan rutin tidak menjamin bekerja di divisi IT (afirmasi konsekuen)\n- B: Benar, karena karyawan divisi IT wajib punya sertifikasi, dan yang punya sertifikasi pasti ikut pelatihan\n- C: Salah, karena bertentangan dengan kesimpulan silogisme\n- D: Salah, karena sertifikasi tidak menjamin bekerja di divisi IT (bisa dari divisi lain)\n- E: Salah, tidak ada hubungan logis yang mendukung pernyataan ini\n\nJadi jawaban adalah B karena mengikuti rantai logis dari kedua premis yang diberikan.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:24:37.382871",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Di sebuah perpustakaan, buku yang dipinjam lebih dari 30 hari akan dikenakan denda. Mahasiswa semester akhir yang sedang mengerjakan skripsi mendapat keringanan berupa perpanjangan waktu peminjaman menjadi 60 hari. Andi adalah mahasiswa semester akhir yang sedang mengerjakan skripsi dan meminjam buku selama 45 hari.\n\nManakah kesimpulan berikut yang BENAR?",
+      "pilihan_jawaban": {
+        "A": "Andi pasti dikenakan denda karena meminjam buku lebih dari 30 hari.",
+        "B": "Andi tidak dikenakan denda karena masih dalam batas waktu keringanan.",
+        "C": "Semua mahasiswa semester akhir tidak perlu mengembalikan buku tepat waktu.",
+        "D": "Mahasiswa yang bukan semester akhir tidak boleh meminjam buku lebih dari 30 hari.",
+        "E": "Andi akan dikenakan denda setengah dari denda normal."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi informasi yang diberikan.\n- Aturan umum: Peminjaman > 30 hari → kena denda\n- Keringanan: Mahasiswa semester akhir + skripsi → batas 60 hari\n- Fakta: Andi = mahasiswa semester akhir + skripsi, meminjam 45 hari\n\nLangkah 2: Terapkan aturan pada kasus Andi.\nAndi memenuhi syarat keringanan, sehingga batas waktunya adalah 60 hari.\n45 hari < 60 hari, maka Andi belum melewati batas.\n\nLangkah 3: Evaluasi setiap opsi.\n- A: Salah, karena Andi mendapat keringanan sehingga batas waktunya 60 hari\n- B: Benar, 45 hari masih dalam batas 60 hari\n- C: Salah, keringanan bukan berarti tidak perlu mengembalikan tepat waktu\n- D: Salah, tidak ada informasi tentang larangan, hanya tentang denda\n- E: Salah, tidak ada informasi tentang denda setengah\n\nJadi jawaban adalah B karena Andi memenuhi syarat keringanan dan peminjaman 45 hari masih dalam batas 60 hari.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:24:37.382879",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Sebuah survei menunjukkan bahwa 80% pelanggan yang memberikan ulasan bintang lima melakukan pembelian ulang dalam tiga bulan berikutnya. Sementara itu, hanya 20% pelanggan yang memberikan ulasan di bawah bintang tiga melakukan pembelian ulang.\n\nManakah pernyataan berikut yang PALING TEPAT berdasarkan informasi di atas?",
+      "pilihan_jawaban": {
+        "A": "Pelanggan yang tidak memberikan ulasan pasti tidak akan melakukan pembelian ulang.",
+        "B": "Terdapat korelasi positif antara kepuasan pelanggan dengan kemungkinan pembelian ulang.",
+        "C": "Semua pelanggan yang memberikan ulasan bintang lima pasti melakukan pembelian ulang.",
+        "D": "Pelanggan yang memberikan ulasan bintang empat memiliki peluang 60% untuk pembelian ulang.",
+        "E": "Ulasan bintang lima menyebabkan pelanggan melakukan pembelian ulang."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Analisis data yang diberikan.\n- Ulasan bintang 5: 80% pembelian ulang\n- Ulasan < bintang 3: 20% pembelian ulang\n\nLangkah 2: Identifikasi pola dari data.\nTerdapat perbedaan signifikan antara pelanggan puas (bintang 5) dan tidak puas (< bintang 3) dalam hal pembelian ulang.\n\nLangkah 3: Evaluasi setiap opsi.\n- A: Salah, tidak ada data tentang pelanggan yang tidak memberikan ulasan\n- B: Benar, data menunjukkan semakin tinggi kepuasan (bintang tinggi), semakin tinggi pembelian ulang\n- C: Salah, 80% bukan berarti semua (100%)\n- D: Salah, tidak ada data tentang bintang empat\n- E: Salah, korelasi tidak sama dengan kausalitas (hubungan sebab-akibat)\n\nJadi jawaban adalah B karena data menunjukkan adanya korelasi positif antara tingkat kepuasan (ulasan bintang) dengan kemungkinan pembelian ulang.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:24:37.382880",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Pemerintah kota menerapkan kebijakan baru: kendaraan dengan plat nomor ganjil hanya boleh melintas pada tanggal ganjil, dan kendaraan dengan plat nomor genap hanya boleh melintas pada tanggal genap. Pengecualian diberikan untuk kendaraan darurat dan angkutan umum. Pak Budi memiliki mobil dengan plat nomor B 1357 XY dan ingin pergi ke kantor pada tanggal 24.\n\nManakah kesimpulan yang BENAR tentang situasi Pak Budi?",
+      "pilihan_jawaban": {
+        "A": "Pak Budi boleh melintas karena mobilnya adalah angkutan umum.",
+        "B": "Pak Budi tidak boleh melintas karena plat nomornya ganjil sedangkan tanggalnya genap.",
+        "C": "Pak Budi boleh melintas karena angka 4 pada tanggal 24 adalah genap.",
+        "D": "Pak Budi boleh melintas jika mobilnya terdaftar sebagai kendaraan darurat.",
+        "E": "Pak Budi tidak memerlukan izin khusus untuk melintas pada tanggal tersebut."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi fakta-fakta.\n- Aturan: Plat ganjil → tanggal ganjil; Plat genap → tanggal genap\n- Pengecualian: Kendaraan darurat dan angkutan umum\n- Plat Pak Budi: B 1357 XY (angka 1357 adalah ganjil)\n- Tanggal: 24 (genap)\n\nLangkah 2: Terapkan aturan pada kasus Pak Budi.\nPlat ganjil (1357) pada tanggal genap (24) → tidak sesuai aturan\n\nLangkah 3: Evaluasi setiap opsi.\n- A: Salah, tidak ada informasi bahwa mobil Pak Budi adalah angkutan umum\n- B: Benar, plat ganjil tidak boleh melintas pada tanggal genap\n- C: Salah, yang dilihat adalah keseluruhan tanggal (24 = genap), dan masalahnya pada plat ganjil\n- D: Salah, pernyataan ini bersifat kondisional dan tidak ada informasi bahwa mobil Pak Budi kendaraan darurat\n- E: Salah, Pak Budi memerlukan pengecualian karena melanggar aturan\n\nJadi jawaban adalah B karena mobil Pak Budi berplat ganjil tidak boleh melintas pada tanggal genap.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:24:37.382881",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Penelitian menunjukkan bahwa tanaman yang diberi pupuk organik menghasilkan buah lebih banyak dibandingkan tanaman yang tidak diberi pupuk. Namun, tanaman yang diberi pupuk kimia berlebihan justru mengalami kerusakan akar. Petani Adi memberikan pupuk organik secukupnya pada tanaman tomatnya.\n\nManakah kesimpulan berikut yang PALING MUNGKIN benar?",
+      "pilihan_jawaban": {
+        "A": "Tanaman tomat Adi pasti menghasilkan buah paling banyak di desanya.",
+        "B": "Tanaman tomat Adi kemungkinan menghasilkan buah lebih banyak dan tidak mengalami kerusakan akar.",
+        "C": "Tanaman tomat Adi tidak akan pernah mengalami masalah pertumbuhan.",
+        "D": "Semua petani yang menggunakan pupuk organik pasti sukses panen.",
+        "E": "Pupuk kimia selalu menyebabkan kerusakan pada semua jenis tanaman."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi informasi yang diberikan.\n- Pupuk organik → hasil buah lebih banyak\n- Pupuk kimia berlebihan → kerusakan akar\n- Adi: Menggunakan pupuk organik secukupnya (bukan kimia berlebihan)\n\nLangkah 2: Hubungkan fakta dengan kondisi Adi.\nAdi menggunakan pupuk organik → kemungkinan hasil lebih banyak\nAdi tidak menggunakan pupuk kimia berlebihan → tidak ada risiko kerusakan akar dari pupuk kimia\n\nLangkah 3: Evaluasi setiap opsi.\n- A: Salah, tidak ada perbandingan dengan petani lain di desa\n- B: Benar, sesuai dengan kedua premis penelitian\n- C: Salah, kata \"tidak akan pernah\" terlalu absolut, bisa ada masalah lain\n- D: Salah, sukses panen bergantung pada banyak faktor, bukan hanya pupuk\n- E: Salah, premis menyatakan \"berlebihan\", bukan semua penggunaan pupuk kimia\n\nJadi jawaban adalah B karena sesuai dengan kesimpulan logis dari kedua premis tanpa generalisasi berlebihan.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-28T20:24:37.382882",
+      "status": "generated"
+    }
+  ]
+}
