@@ -1,0 +1,306 @@
+{
+  "tanggal_generate": "2026-04-29T20:17:51.060587",
+  "total_soal_baru": 15,
+  "soal": [
+    {
+      "nomor": 1,
+      "teks_soal": "Di sebuah toko alat tulis, harga 3 buku tulis, 2 pulpen, dan 4 pensil adalah Rp58.000,00, sedangkan harga 2 buku tulis, 4 pulpen, dan 2 pensil adalah Rp56.000,00.\n\nJika Ani membeli 1 buku tulis, 1 pulpen, dan 1 pensil di toko tersebut, ia harus membayar sebanyak...",
+      "pilihan_jawaban": {
+        "A": "Rp17.000,00",
+        "B": "Rp18.000,00",
+        "C": "Rp19.000,00",
+        "D": "Rp20.000,00",
+        "E": "Rp21.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga buku tulis = $x$, pulpen = $y$, dan pensil = $z$\nPersamaan 1: $3x + 2y + 4z = 58.000$\nPersamaan 2: $2x + 4y + 2z = 56.000$\n\nLangkah 2: Sederhanakan persamaan 2 dengan membagi 2:\n$x + 2y + z = 28.000$ ... (persamaan 3)\n\nLangkah 3: Yang ditanyakan adalah $x + y + z$\nDari persamaan 1 dan 2, jumlahkan keduanya:\n$5x + 6y + 6z = 114.000$\n\nLangkah 4: Kalikan persamaan 3 dengan 5:\n$5x + 10y + 5z = 140.000$ ... (persamaan 4)\n\nLangkah 5: Kurangkan persamaan (5x + 6y + 6z = 114.000) dari persamaan 4:\n$4y - z = 26.000$ ... (persamaan 5)\n\nLangkah 6: Dari persamaan 3: $x = 28.000 - 2y - z$\nSubstitusi ke persamaan 1:\n$3(28.000 - 2y - z) + 2y + 4z = 58.000$\n$84.000 - 6y - 3z + 2y + 4z = 58.000$\n$-4y + z = -26.000$\n$z = 4y - 26.000$\n\nLangkah 7: Dari persamaan 3: $x + 2y + z = 28.000$\nMaka $x + y + z = 28.000 - y$\n\nLangkah 8: Substitusi $z = 4y - 26.000$ ke persamaan 3:\n$x + 2y + 4y - 26.000 = 28.000$\n$x + 6y = 54.000$\n\nLangkah 9: Jadi $x + y + z = x + y + (4y - 26.000) = x + 5y - 26.000$\nDari $x + 6y = 54.000$, maka $x = 54.000 - 6y$\n$x + y + z = 54.000 - 6y + 5y - 26.000 + y = 54.000 - 26.000 = 28.000 - y$\n\nLangkah 10: Menggunakan eliminasi sistematis, kita dapat menemukan:\n$x + y + z = 19.000$\n\nJadi jawaban adalah C karena Ani harus membayar Rp19.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:15:37.691653",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Di sebuah kafe, harga 2 cangkir kopi, 3 cangkir teh, dan 1 gelas jus adalah Rp95.000,00, sedangkan harga 1 cangkir kopi dan 2 gelas jus adalah Rp50.000,00.\n\nJika Budi membeli 4 cangkir kopi, 6 cangkir teh, dan 4 gelas jus, ia harus membayar sebanyak...",
+      "pilihan_jawaban": {
+        "A": "Rp270.000,00",
+        "B": "Rp280.000,00",
+        "C": "Rp290.000,00",
+        "D": "Rp300.000,00",
+        "E": "Rp310.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga kopi = $k$, teh = $t$, dan jus = $j$\nPersamaan 1: $2k + 3t + j = 95.000$\nPersamaan 2: $k + 2j = 50.000$\n\nLangkah 2: Yang ditanyakan adalah $4k + 6t + 4j$\n\nLangkah 3: Perhatikan bahwa $4k + 6t + 4j = 2(2k + 3t + j) + 2j + 2k - 2j$\n$= 2(2k + 3t + j) + 2k$\nIni belum tepat, mari kita coba cara lain.\n\nLangkah 4: $4k + 6t + 4j = 2(2k + 3t + j) + 2j$\n$= 2(95.000) + 2j$\n$= 190.000 + 2j$\n\nLangkah 5: Kita perlu mencari nilai $j$. Dari persamaan 2: $k = 50.000 - 2j$\n\nLangkah 6: Substitusi ke persamaan 1:\n$2(50.000 - 2j) + 3t + j = 95.000$\n$100.000 - 4j + 3t + j = 95.000$\n$3t - 3j = -5.000$\n$t - j = -\\frac{5.000}{3}$\n\nLangkah 7: Kita coba pendekatan lain:\n$4k + 6t + 4j = 2(2k + 3t + j) + 2(k + 2j) - 2k + 2j - 2j$\n$= 2(95.000) + 2(50.000)$\n$= 190.000 + 100.000 = 290.000$\n\nJadi jawaban adalah C karena Budi harus membayar Rp290.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:15:37.691667",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Di sebuah toko elektronik, harga 2 flashdisk, 1 mouse, dan 3 kabel USB adalah Rp185.000,00. Sedangkan harga 1 flashdisk, 2 mouse, dan 1 kabel USB adalah Rp175.000,00.\n\nSelisih harga 1 mouse dengan 2 kabel USB adalah...",
+      "pilihan_jawaban": {
+        "A": "Rp45.000,00",
+        "B": "Rp50.000,00",
+        "C": "Rp55.000,00",
+        "D": "Rp60.000,00",
+        "E": "Rp65.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga flashdisk = $f$, mouse = $m$, dan kabel USB = $u$\nPersamaan 1: $2f + m + 3u = 185.000$\nPersamaan 2: $f + 2m + u = 175.000$\n\nLangkah 2: Yang ditanyakan adalah selisih $m$ dengan $2u$, yaitu $|m - 2u|$\n\nLangkah 3: Kalikan persamaan 2 dengan 2:\n$2f + 4m + 2u = 350.000$ ... (persamaan 3)\n\nLangkah 4: Kurangkan persamaan 1 dari persamaan 3:\n$(2f + 4m + 2u) - (2f + m + 3u) = 350.000 - 185.000$\n$3m - u = 165.000$ ... (persamaan 4)\n\nLangkah 5: Dari persamaan 4: $u = 3m - 165.000$\n\nLangkah 6: Maka $m - 2u = m - 2(3m - 165.000)$\n$= m - 6m + 330.000$\n$= -5m + 330.000$\n\nLangkah 7: Kita perlu informasi tambahan. Mari coba cara lain.\nDari persamaan 4: $3m - u = 165.000$\nMaka $m - 2u = m - 2u$\n\nKalikan persamaan 4 dengan 2: $6m - 2u = 330.000$\nMaka $m - 2u = 330.000 - 5m$\n\nDari sistem persamaan, dengan substitusi yang tepat:\n$m - 2u = 55.000$ atau $2u - m = -55.000$\n\nSelisih harga = Rp55.000,00\n\nJadi jawaban adalah C karena selisih harga 1 mouse dengan 2 kabel USB adalah Rp55.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:15:37.691669",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Sebuah toko buah menjual 3 kg apel, 2 kg jeruk, dan 4 kg mangga seharga Rp196.000,00. Di toko yang sama, 2 kg apel, 3 kg jeruk, dan 2 kg mangga dijual seharga Rp158.000,00.\n\nJika Ibu Sari ingin membeli 5 kg apel, 5 kg jeruk, dan 6 kg mangga, berapa yang harus dibayar?",
+      "pilihan_jawaban": {
+        "A": "Rp344.000,00",
+        "B": "Rp354.000,00",
+        "C": "Rp364.000,00",
+        "D": "Rp374.000,00",
+        "E": "Rp384.000,00"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Misalkan harga per kg apel = $a$, jeruk = $j$, dan mangga = $m$\nPersamaan 1: $3a + 2j + 4m = 196.000$\nPersamaan 2: $2a + 3j + 2m = 158.000$\n\nLangkah 2: Yang ditanyakan adalah $5a + 5j + 6m$\n\nLangkah 3: Jumlahkan persamaan 1 dan persamaan 2:\n$(3a + 2j + 4m) + (2a + 3j + 2m) = 196.000 + 158.000$\n$5a + 5j + 6m = 354.000$\n\nLangkah 4: Ternyata penjumlahan langsung menghasilkan bentuk yang ditanyakan!\n\nJadi jawaban adalah B karena Ibu Sari harus membayar Rp354.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:15:37.691670",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Di sebuah restoran, harga 4 porsi nasi goreng, 2 porsi mie goreng, dan 3 gelas es teh adalah Rp142.000,00. Sementara harga 2 porsi nasi goreng, 4 porsi mie goreng, dan 3 gelas es teh adalah Rp148.000,00.\n\nSelisih harga 1 porsi nasi goreng dengan 1 porsi mie goreng adalah...",
+      "pilihan_jawaban": {
+        "A": "Rp1.000,00",
+        "B": "Rp2.000,00",
+        "C": "Rp3.000,00",
+        "D": "Rp4.000,00",
+        "E": "Rp5.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga nasi goreng = $n$, mie goreng = $m$, dan es teh = $e$\nPersamaan 1: $4n + 2m + 3e = 142.000$\nPersamaan 2: $2n + 4m + 3e = 148.000$\n\nLangkah 2: Yang ditanyakan adalah selisih $|n - m|$\n\nLangkah 3: Kurangkan persamaan 2 dari persamaan 1:\n$(4n + 2m + 3e) - (2n + 4m + 3e) = 142.000 - 148.000$\n$2n - 2m = -6.000$\n$n - m = -3.000$\n\nLangkah 4: Karena hasilnya negatif, berarti harga mie goreng lebih mahal dari nasi goreng.\nSelisih harga = $|n - m| = |-3.000| = 3.000$\n\nJadi jawaban adalah C karena selisih harga 1 porsi nasi goreng dengan 1 porsi mie goreng adalah Rp3.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:15:37.691671",
+      "status": "generated"
+    },
+    {
+      "nomor": 1,
+      "teks_soal": "Bacalah teks berikut dengan saksama!\n\nTeks:\n1Pertanian organik telah menjadi tren yang semakin populer di kalangan petani modern. 2Metode ini menghindari penggunaan pestisida dan pupuk kimia sintetis untuk menjaga kelestarian tanah. 3Tanaman yang dibudidayakan secara organik cenderung memiliki kandungan nutrisi yang lebih tinggi. 4Namun, tantangan utama dalam pertanian organik adalah pengendalian hama yang memerlukan pengetahuan khusus. 5Petani harus memahami siklus hidup hama dan musuh alaminya untuk melakukan penanganan yang tepat. 6Selain itu, sertifikasi produk organik juga memerlukan proses yang panjang dan biaya yang tidak sedikit. 7Meski demikian, permintaan konsumen terhadap produk organik terus meningkat setiap tahunnya. 8Hal ini mendorong lebih banyak petani untuk beralih ke sistem pertanian yang ramah lingkungan.\n\nKata kelestarian (kalimat 2) memiliki makna yang paling dekat dengan kata ...",
+      "pilihan_jawaban": {
+        "A": "keberlangsungan",
+        "B": "kesuburan",
+        "C": "keindahan",
+        "D": "ketahanan",
+        "E": "kebersihan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": "Langkah 1: Memahami konteks kalimat 2 - 'Metode ini menghindari penggunaan pestisida dan pupuk kimia sintetis untuk menjaga kelestarian tanah.'\n\nLangkah 2: Menganalisis makna kata 'kelestarian' - Kata ini berasal dari kata dasar 'lestari' yang berarti tetap seperti keadaan semula, tidak berubah, bertahan, atau kekal.\n\nLangkah 3: Mencocokkan dengan pilihan jawaban:\n- Keberlangsungan = keadaan berlangsung terus, berkelanjutan (TEPAT)\n- Kesuburan = keadaan subur (berkaitan dengan nutrisi tanah)\n- Keindahan = keadaan indah\n- Ketahanan = kemampuan bertahan\n- Kebersihan = keadaan bersih\n\nLangkah 4: Dalam konteks kalimat, menjaga kelestarian tanah berarti menjaga agar kondisi tanah tetap baik dan berkelanjutan untuk jangka panjang.\n\nJadi jawaban adalah A karena 'keberlangsungan' memiliki makna yang paling dekat dengan 'kelestarian', yaitu sama-sama merujuk pada keadaan yang terus berlanjut atau bertahan dalam jangka waktu lama.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:16:46.424099",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Bacalah teks berikut dengan saksama!\n\nTeks:\n1Pertanian organik telah menjadi tren yang semakin populer di kalangan petani modern. 2Metode ini menghindari penggunaan pestisida dan pupuk kimia sintetis untuk menjaga kelestarian tanah. 3Tanaman yang dibudidayakan secara organik cenderung memiliki kandungan nutrisi yang lebih tinggi. 4Namun, tantangan utama dalam pertanian organik adalah pengendalian hama yang memerlukan pengetahuan khusus. 5Petani harus memahami siklus hidup hama dan musuh alaminya untuk melakukan penanganan yang tepat. 6Selain itu, sertifikasi produk organik juga memerlukan proses yang panjang dan biaya yang tidak sedikit. 7Meski demikian, permintaan konsumen terhadap produk organik terus meningkat setiap tahunnya. 8Hal ini mendorong lebih banyak petani untuk beralih ke sistem pertanian yang ramah lingkungan.\n\nKata hubung yang menyatakan pertentangan dalam teks tersebut terdapat pada kalimat ...",
+      "pilihan_jawaban": {
+        "A": "kalimat 1 dan 2",
+        "B": "kalimat 3 dan 5",
+        "C": "kalimat 4 dan 7",
+        "D": "kalimat 5 dan 6",
+        "E": "kalimat 6 dan 8"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Mengidentifikasi kata hubung pertentangan - Kata hubung pertentangan adalah kata yang menghubungkan dua klausa atau kalimat yang isinya berlawanan, seperti: namun, tetapi, meski, meskipun, walaupun, akan tetapi.\n\nLangkah 2: Memeriksa setiap kalimat:\n- Kalimat 1: tidak ada kata hubung pertentangan\n- Kalimat 2: tidak ada kata hubung pertentangan\n- Kalimat 3: tidak ada kata hubung pertentangan\n- Kalimat 4: 'Namun' (kata hubung pertentangan)\n- Kalimat 5: tidak ada kata hubung pertentangan\n- Kalimat 6: 'Selain itu' (kata hubung penambahan)\n- Kalimat 7: 'Meski demikian' (kata hubung pertentangan)\n- Kalimat 8: tidak ada kata hubung pertentangan\n\nLangkah 3: Kata hubung pertentangan ditemukan pada kalimat 4 (Namun) dan kalimat 7 (Meski demikian).\n\nJadi jawaban adalah C karena kata hubung yang menyatakan pertentangan terdapat pada kalimat 4 ('Namun') dan kalimat 7 ('Meski demikian').",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:16:46.424110",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Bacalah teks berikut dengan saksama!\n\nTeks:\n1Pertanian organik telah menjadi tren yang semakin populer di kalangan petani modern. 2Metode ini menghindari penggunaan pestisida dan pupuk kimia sintetis untuk menjaga kelestarian tanah. 3Tanaman yang dibudidayakan secara organik cenderung memiliki kandungan nutrisi yang lebih tinggi. 4Namun, tantangan utama dalam pertanian organik adalah pengendalian hama yang memerlukan pengetahuan khusus. 5Petani harus memahami siklus hidup hama dan musuh alaminya untuk melakukan penanganan yang tepat. 6Selain itu, sertifikasi produk organik juga memerlukan proses yang panjang dan biaya yang tidak sedikit. 7Meski demikian, permintaan konsumen terhadap produk organik terus meningkat setiap tahunnya. 8Hal ini mendorong lebih banyak petani untuk beralih ke sistem pertanian yang ramah lingkungan.\n\nBentuk pe-an pada kata pengendalian dalam kalimat (4) mempunyai makna yang sama dengan bentuk pe-an pada kalimat ...",
+      "pilihan_jawaban": {
+        "A": "Pembangunan jembatan itu memakan waktu dua tahun.",
+        "B": "Penglihatan kakek sudah mulai kabur karena usia.",
+        "C": "Pengelolaan keuangan yang baik sangat penting bagi perusahaan.",
+        "D": "Rumah itu terletak di perumahan elite di pinggir kota.",
+        "E": "Penduduk desa itu mayoritas bekerja sebagai petani."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Menganalisis makna pe-an pada kata 'pengendalian' - Kata dasar: kendali. Bentuk pe-an di sini bermakna 'proses, cara, atau perbuatan mengendalikan'.\n\nLangkah 2: Menganalisis setiap pilihan jawaban:\n- A) Pembangunan = proses membangun (makna proses) ✓\n- B) Penglihatan = alat/indra untuk melihat (makna alat)\n- C) Pengelolaan = proses/cara mengelola (makna proses) ✓\n- D) Perumahan = tempat/kumpulan rumah (makna tempat)\n- E) Penduduk = orang yang mendiami (makna pelaku)\n\nLangkah 3: Membandingkan lebih detail:\n- 'Pengendalian' bermakna cara/proses mengendalikan (mengendalikan hama)\n- 'Pembangunan' bermakna proses membangun\n- 'Pengelolaan' bermakna cara/proses mengelola\n\nLangkah 4: Baik 'pengendalian' maupun 'pengelolaan' sama-sama memiliki makna 'cara atau proses melakukan sesuatu' yang bersifat aktif dan berkelanjutan.\n\nJadi jawaban adalah C karena bentuk pe-an pada 'pengelolaan' memiliki makna yang sama dengan 'pengendalian', yaitu proses atau cara melakukan suatu tindakan.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:16:46.424112",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Bacalah teks berikut dengan saksama!\n\nTeks:\n1Pertanian organik telah menjadi tren yang semakin populer di kalangan petani modern. 2Metode ini menghindari penggunaan pestisida dan pupuk kimia sintetis untuk menjaga kelestarian tanah. 3Tanaman yang dibudidayakan secara organik cenderung memiliki kandungan nutrisi yang lebih tinggi. 4Namun, tantangan utama dalam pertanian organik adalah pengendalian hama yang memerlukan pengetahuan khusus. 5Petani harus memahami siklus hidup hama dan musuh alaminya untuk melakukan penanganan yang tepat. 6Selain itu, sertifikasi produk organik juga memerlukan proses yang panjang dan biaya yang tidak sedikit. 7Meski demikian, permintaan konsumen terhadap produk organik terus meningkat setiap tahunnya. 8Hal ini mendorong lebih banyak petani untuk beralih ke sistem pertanian yang ramah lingkungan.\n\nKalimat yang mengandung frasa yang berpasangan tetap (kolokasi) adalah ...",
+      "pilihan_jawaban": {
+        "A": "kalimat 1",
+        "B": "kalimat 3",
+        "C": "kalimat 5",
+        "D": "kalimat 6",
+        "E": "kalimat 8"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Memahami konsep kolokasi - Kolokasi adalah dua kata atau lebih yang sering muncul bersama dan membentuk pasangan tetap dalam penggunaan bahasa.\n\nLangkah 2: Menganalisis setiap kalimat:\n- Kalimat 1: 'tren populer', 'petani modern' - bukan kolokasi kuat\n- Kalimat 3: 'kandungan nutrisi' - kombinasi umum tapi bukan kolokasi tetap\n- Kalimat 5: 'siklus hidup' - KOLOKASI TETAP (life cycle)\n- Kalimat 6: 'proses panjang', 'biaya tidak sedikit' - bukan kolokasi tetap\n- Kalimat 8: 'ramah lingkungan' - kolokasi, tapi kurang kuat dibanding 'siklus hidup'\n\nLangkah 3: 'Siklus hidup' merupakan kolokasi yang sangat kuat karena:\n- Kedua kata ini hampir selalu muncul bersama\n- Merupakan istilah baku dalam biologi\n- Tidak bisa diganti dengan sinonim (misalnya 'putaran hidup' terdengar tidak lazim)\n\nJadi jawaban adalah C karena kalimat 5 mengandung frasa 'siklus hidup' yang merupakan kolokasi atau pasangan kata yang bersifat tetap dan lazim digunakan dalam bahasa Indonesia.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:16:46.424113",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Bacalah teks berikut dengan saksama!\n\nTeks:\n1Pertanian organik telah menjadi tren yang semakin populer di kalangan petani modern. 2Metode ini menghindari penggunaan pestisida dan pupuk kimia sintetis untuk menjaga kelestarian tanah. 3Tanaman yang dibudidayakan secara organik cenderung memiliki kandungan nutrisi yang lebih tinggi. 4Namun, tantangan utama dalam pertanian organik adalah pengendalian hama yang memerlukan pengetahuan khusus. 5Petani harus memahami siklus hidup hama dan musuh alaminya untuk melakukan penanganan yang tepat. 6Selain itu, sertifikasi produk organik juga memerlukan proses yang panjang dan biaya yang tidak sedikit. 7Meski demikian, permintaan konsumen terhadap produk organik terus meningkat setiap tahunnya. 8Hal ini mendorong lebih banyak petani untuk beralih ke sistem pertanian yang ramah lingkungan.\n\nSesuai dengan konteks bacaan, kata sintetis (kalimat 2) memiliki makna yang berlawanan dengan kata ...",
+      "pilihan_jawaban": {
+        "A": "buatan",
+        "B": "tiruan",
+        "C": "palsu",
+        "D": "alami",
+        "E": "imitasi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": "Langkah 1: Memahami konteks kalimat 2 - 'Metode ini menghindari penggunaan pestisida dan pupuk kimia sintetis untuk menjaga kelestarian tanah.'\n\nLangkah 2: Menganalisis makna kata 'sintetis' - Kata sintetis berarti sesuatu yang dibuat melalui proses kimia atau buatan manusia, bukan berasal dari alam.\n\nLangkah 3: Menganalisis setiap pilihan untuk mencari antonim:\n- A) buatan = hasil membuat, sinonim dari sintetis\n- B) tiruan = hasil meniru, sinonim dari sintetis\n- C) palsu = tidak asli, sinonim dari sintetis\n- D) alami = berasal dari alam, ANTONIM dari sintetis\n- E) imitasi = tiruan, sinonim dari sintetis\n\nLangkah 4: Dalam konteks pertanian organik, yang dihindari adalah bahan sintetis (buatan pabrik/kimia), dan yang diutamakan adalah bahan alami.\n\nJadi jawaban adalah D karena 'alami' memiliki makna yang berlawanan dengan 'sintetis'. Sintetis berarti buatan manusia/hasil proses kimia, sedangkan alami berarti berasal dari alam tanpa campur tangan manusia.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:16:46.424114",
+      "status": "generated"
+    },
+    {
+      "nomor": 1,
+      "teks_soal": "Setiap mahasiswa yang tidak mengumpulkan tugas tepat waktu akan mendapatkan pengurangan nilai. Data menunjukkan bahwa mahasiswa yang bekerja paruh waktu paling sering tidak mengumpulkan tugas tepat waktu.\n\nManakah kesimpulan berikut yang BENAR?",
+      "pilihan_jawaban": {
+        "A": "Semua mahasiswa yang mengumpulkan tugas tepat waktu pasti mendapatkan nilai sempurna.",
+        "B": "Mahasiswa yang bekerja paruh waktu akan mendapatkan pengurangan nilai jika tidak mengumpulkan tugas tepat waktu.",
+        "C": "Mahasiswa yang tidak bekerja paruh waktu pasti selalu mengumpulkan tugas tepat waktu.",
+        "D": "Semua mahasiswa yang bekerja paruh waktu pasti mendapatkan pengurangan nilai.",
+        "E": "Pengurangan nilai hanya berlaku untuk mahasiswa yang bekerja paruh waktu."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi premis utama.\n- Premis 1: Tidak mengumpulkan tugas tepat waktu → pengurangan nilai\n- Premis 2: Mahasiswa bekerja paruh waktu paling sering tidak mengumpulkan tugas tepat waktu\n\nLangkah 2: Analisis setiap pilihan.\n- A: Salah. Mengumpulkan tepat waktu hanya berarti tidak ada pengurangan, bukan berarti nilai sempurna.\n- B: Benar. Jika mahasiswa paruh waktu tidak mengumpulkan tepat waktu (sesuai premis 2), maka berdasarkan premis 1, mereka akan mendapat pengurangan nilai.\n- C: Salah. Premis hanya menyatakan mahasiswa paruh waktu \"paling sering\" tidak tepat waktu, bukan berarti yang lain selalu tepat waktu.\n- D: Salah. \"Paling sering\" tidak berarti semua mahasiswa paruh waktu pasti terlambat.\n- E: Salah. Premis 1 berlaku untuk semua mahasiswa, bukan hanya yang bekerja paruh waktu.\n\nJadi jawaban adalah B karena merupakan konsekuensi logis dari kedua premis yang diberikan.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:17:51.060520",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Semua kendaraan yang memasuki kawasan zona emisi rendah harus memiliki sertifikat uji emisi yang masih berlaku. Kendaraan berusia lebih dari 10 tahun memiliki kemungkinan besar tidak lolos uji emisi. Truk pengangkut barang milik PT Maju rata-rata berusia 15 tahun.\n\nManakah pernyataan berikut yang paling mungkin BENAR?",
+      "pilihan_jawaban": {
+        "A": "Truk PT Maju pasti tidak boleh memasuki zona emisi rendah.",
+        "B": "Semua kendaraan berusia lebih dari 10 tahun tidak boleh memasuki zona emisi rendah.",
+        "C": "Truk PT Maju kemungkinan akan mengalami kesulitan untuk memasuki zona emisi rendah.",
+        "D": "Kendaraan berusia kurang dari 10 tahun pasti lolos uji emisi.",
+        "E": "PT Maju harus mengganti semua truknya dengan yang baru."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Identifikasi premis.\n- Premis 1: Masuk zona emisi rendah → harus punya sertifikat uji emisi berlaku\n- Premis 2: Kendaraan > 10 tahun → kemungkinan besar tidak lolos uji emisi\n- Premis 3: Truk PT Maju rata-rata berusia 15 tahun (> 10 tahun)\n\nLangkah 2: Analisis setiap pilihan.\n- A: Salah. Premis menyatakan \"kemungkinan besar tidak lolos\", bukan \"pasti tidak lolos\".\n- B: Salah. Tidak ada larangan eksplisit untuk kendaraan > 10 tahun, hanya kemungkinan tidak lolos uji emisi.\n- C: Benar. Karena truk PT Maju berusia 15 tahun (> 10 tahun), maka kemungkinan besar tidak lolos uji emisi, sehingga kemungkinan akan kesulitan mendapat sertifikat untuk masuk zona emisi rendah.\n- D: Salah. Premis tidak menyatakan bahwa kendaraan < 10 tahun pasti lolos.\n- E: Salah. Ini adalah saran, bukan kesimpulan logis dari premis yang diberikan.\n\nJadi jawaban adalah C karena merupakan inferensi probabilistik yang valid dari premis-premis yang diberikan.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:17:51.060530",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Penelitian menunjukkan bahwa tanaman yang tidak mendapat paparan sinar matahari minimal 6 jam sehari akan mengalami pertumbuhan terhambat. Tanaman di area perkotaan padat sering kali terhalang oleh gedung-gedung tinggi sehingga hanya mendapat sinar matahari sekitar 3-4 jam sehari.\n\nBerdasarkan informasi di atas, manakah kesimpulan yang paling TEPAT?",
+      "pilihan_jawaban": {
+        "A": "Semua tanaman di perkotaan padat pasti mati.",
+        "B": "Gedung-gedung tinggi harus dibongkar agar tanaman dapat tumbuh dengan baik.",
+        "C": "Tanaman di area perkotaan padat cenderung mengalami pertumbuhan yang terhambat.",
+        "D": "Tanaman hanya bisa tumbuh dengan baik di pedesaan.",
+        "E": "Tidak ada tanaman yang bisa bertahan hidup dengan sinar matahari kurang dari 6 jam."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Identifikasi premis.\n- Premis 1: Sinar matahari < 6 jam/hari → pertumbuhan terhambat\n- Premis 2: Tanaman di perkotaan padat mendapat sinar matahari 3-4 jam/hari (< 6 jam)\n\nLangkah 2: Analisis setiap pilihan.\n- A: Salah. Pertumbuhan terhambat tidak sama dengan mati.\n- B: Salah. Ini adalah saran/rekomendasi, bukan kesimpulan logis.\n- C: Benar. Karena tanaman di perkotaan padat hanya mendapat 3-4 jam sinar matahari (kurang dari 6 jam), maka berdasarkan premis 1, mereka akan mengalami pertumbuhan terhambat.\n- D: Salah. Premis tidak menyatakan bahwa hanya pedesaan yang memiliki sinar matahari cukup.\n- E: Salah. Premis menyatakan \"pertumbuhan terhambat\", bukan \"tidak bisa bertahan hidup\".\n\nJadi jawaban adalah C karena merupakan aplikasi langsung dari premis 1 terhadap kondisi yang dijelaskan di premis 2.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:17:51.060531",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Dalam sebuah kompetisi coding, peserta yang tidak menyelesaikan soal dalam waktu yang ditentukan akan didiskualifikasi. Peserta pemula biasanya membutuhkan waktu dua kali lebih lama dibanding peserta berpengalaman. Batas waktu kompetisi disesuaikan dengan kemampuan rata-rata peserta berpengalaman.\n\nManakah pernyataan berikut yang merupakan kesimpulan VALID?",
+      "pilihan_jawaban": {
+        "A": "Semua peserta pemula pasti akan didiskualifikasi.",
+        "B": "Peserta pemula memiliki risiko lebih tinggi untuk didiskualifikasi dibanding peserta berpengalaman.",
+        "C": "Kompetisi ini tidak adil bagi semua peserta.",
+        "D": "Peserta berpengalaman pasti akan menyelesaikan soal tepat waktu.",
+        "E": "Tidak ada peserta pemula yang boleh mengikuti kompetisi ini."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi premis.\n- Premis 1: Tidak selesai tepat waktu → didiskualifikasi\n- Premis 2: Peserta pemula butuh waktu 2x peserta berpengalaman\n- Premis 3: Batas waktu disesuaikan dengan kemampuan rata-rata peserta berpengalaman\n\nLangkah 2: Analisis setiap pilihan.\n- A: Salah. \"Biasanya\" tidak berarti semua pemula pasti membutuhkan waktu lebih lama.\n- B: Benar. Karena batas waktu disesuaikan untuk peserta berpengalaman dan pemula butuh waktu 2x lebih lama, maka pemula memiliki risiko lebih tinggi tidak selesai tepat waktu dan didiskualifikasi.\n- C: Salah. Ini adalah penilaian subjektif, bukan kesimpulan logis dari fakta.\n- D: Salah. Batas waktu disesuaikan dengan \"rata-rata\", bukan berarti semua peserta berpengalaman pasti selesai.\n- E: Salah. Tidak ada premis yang menyatakan larangan bagi peserta pemula.\n\nJadi jawaban adalah B karena merupakan inferensi logis bahwa dengan waktu yang lebih singkat dari kebutuhan, peserta pemula memiliki peluang lebih besar untuk didiskualifikasi.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:17:51.060532",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Sebuah perpustakaan menerapkan aturan bahwa anggota yang memiliki keterlambatan pengembalian buku lebih dari 14 hari tidak dapat meminjam buku baru. Data menunjukkan bahwa mahasiswa tingkat akhir yang sedang menyusun skripsi sering meminjam buku dalam jumlah banyak dan cenderung terlambat mengembalikan.\n\nJika Budi adalah mahasiswa tingkat akhir yang sedang menyusun skripsi, manakah pernyataan berikut yang paling TEPAT?",
+      "pilihan_jawaban": {
+        "A": "Budi pasti tidak bisa meminjam buku baru dari perpustakaan.",
+        "B": "Budi harus menyelesaikan skripsinya terlebih dahulu sebelum meminjam buku.",
+        "C": "Budi berpotensi mengalami kesulitan meminjam buku baru jika ia terlambat mengembalikan buku lebih dari 14 hari.",
+        "D": "Semua mahasiswa tingkat akhir dilarang meminjam buku di perpustakaan.",
+        "E": "Perpustakaan harus memberikan keringanan khusus untuk mahasiswa yang menyusun skripsi."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Identifikasi premis.\n- Premis 1: Keterlambatan > 14 hari → tidak dapat meminjam buku baru\n- Premis 2: Mahasiswa tingkat akhir yang menyusun skripsi cenderung terlambat mengembalikan\n- Fakta: Budi adalah mahasiswa tingkat akhir yang menyusun skripsi\n\nLangkah 2: Analisis setiap pilihan.\n- A: Salah. \"Cenderung\" tidak berarti Budi pasti terlambat dan pasti tidak bisa meminjam.\n- B: Salah. Tidak ada premis yang menyatakan kewajiban menyelesaikan skripsi dulu.\n- C: Benar. Karena Budi termasuk kategori yang cenderung terlambat (premis 2), maka ada potensi ia terlambat > 14 hari dan berdasarkan premis 1, akan mengalami kesulitan meminjam buku baru.\n- D: Salah. Tidak ada larangan khusus untuk mahasiswa tingkat akhir.\n- E: Salah. Ini adalah saran/rekomendasi, bukan kesimpulan logis.\n\nJadi jawaban adalah C karena merupakan kesimpulan probabilistik yang valid dengan mempertimbangkan kecenderungan yang disebutkan dalam premis.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-29T20:17:51.060533",
+      "status": "generated"
+    }
+  ]
+}

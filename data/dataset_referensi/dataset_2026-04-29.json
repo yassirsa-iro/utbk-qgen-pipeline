@@ -1,0 +1,279 @@
+{
+  "tanggal_dibuat": "2026-04-29T20:14:57.830616",
+  "total_soal": 13,
+  "soal": [
+    {
+      "nomor": 61,
+      "teks_soal": "Di suatu toko bangunan harga jual 2 kaleng cat kayu, 3 kaleng cat tembok, dan 1 kaleng cat besi adalah Rp318.000,00, sementara harga jual 1 kaleng cat kayu dan 2 kaleng cat besi adalah Rp102.000,00.\n\nJika Pak Tono membeli 1 kaleng cat kayu, 1 kaleng cat tembok, dan 1 kaleng cat besi di toko tersebut, ia harus membayar sebanyak...",
+      "pilihan_jawaban": {
+        "A": "Rp128.000,00",
+        "B": "Rp132.000,00",
+        "C": "Rp136.000,00",
+        "D": "Rp140.000,00",
+        "E": "Rp144.000,00"
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal sistem persamaan linear tiga variabel, bagian dari paket soal 61-64 dengan bacaan yang sama",
+      "file_asal": "Soal UTBK 2026.jpg",
+      "waktu_parsing": "2026-04-29T20:14:15.380466"
+    },
+    {
+      "nomor": 62,
+      "teks_soal": "Di suatu toko bangunan harga jual 2 kaleng cat kayu, 3 kaleng cat tembok, dan 1 kaleng cat besi adalah Rp318.000,00, sementara harga jual 1 kaleng cat kayu dan 2 kaleng cat besi adalah Rp102.000,00.\n\nSelisih harga 1 kaleng cat tembok dengan 1 kaleng cat besi adalah...",
+      "pilihan_jawaban": {
+        "A": "Rp40.000,00",
+        "B": "Rp38.000,00",
+        "C": "Rp36.000,00",
+        "D": "Rp34.000,00",
+        "E": "Rp32.000,00"
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal sistem persamaan linear tiga variabel, bagian dari paket soal 61-64 dengan bacaan yang sama",
+      "file_asal": "Soal UTBK 2026.jpg",
+      "waktu_parsing": "2026-04-29T20:14:15.380475"
+    },
+    {
+      "nomor": 63,
+      "teks_soal": "Di suatu toko bangunan harga jual 2 kaleng cat kayu, 3 kaleng cat tembok, dan 1 kaleng cat besi adalah Rp318.000,00, sementara harga jual 1 kaleng cat kayu dan 2 kaleng cat besi adalah Rp102.000,00.\n\nJika Pak Kirman membeli 5 kaleng cat kayu, 6 kaleng cat tembok, dan 4 kaleng cat besi di toko tersebut ia harus membayar sebanyak...",
+      "pilihan_jawaban": {
+        "A": "Rp620.000,00",
+        "B": "Rp622.000,00",
+        "C": "Rp734.000,00",
+        "D": "Rp738.000,00",
+        "E": "Rp836.000,00"
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal sistem persamaan linear tiga variabel, bagian dari paket soal 61-64 dengan bacaan yang sama",
+      "file_asal": "Soal UTBK 2026.jpg",
+      "waktu_parsing": "2026-04-29T20:14:15.380477"
+    },
+    {
+      "nomor": 64,
+      "teks_soal": "Di suatu toko bangunan harga jual 2 kaleng cat kayu, 3 kaleng cat tembok, dan 1 kaleng cat besi adalah Rp318.000,00, sementara harga jual 1 kaleng cat kayu dan 2 kaleng cat besi adalah Rp102.000,00.\n\nJika harga cat naik, kenaikan harga cat kayu per kaleng adalah $\\frac{1}{2}$ kali kenaikan harga cat tembok per kaleng. Harga cat besi tidak mengalami kenaikan. Jika selisih harga cat tembok dan cat besi per kaleng sekarang Rp48.000,00 maka kenaikan harga cat tembok per kaleng adalah...",
+      "pilihan_jawaban": {
+        "A": "Rp8.000,00",
+        "B": "Rp9.000,00",
+        "C": "Rp10.000,00",
+        "D": "Rp11.000,00",
+        "E": "Rp12.000,00"
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sulit",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": true,
+      "catatan": "Soal sistem persamaan linear tiga variabel dengan kondisi tambahan kenaikan harga, bagian dari paket soal 61-64 dengan bacaan yang sama",
+      "file_asal": "Soal UTBK 2026.jpg",
+      "waktu_parsing": "2026-04-29T20:14:15.380478"
+    },
+    {
+      "nomor": 9,
+      "teks_soal": "Bentuk pe-an pada kata pemeliharaan dalam kalimat (5) mempunyai makna yang sama dengan bentuk pe-an pada kalimat ...\n\nTeks 3:\n1Pengembangan teknologi di bidang perikanan mendorong para nelayan dalam meningkatkan hasil tangkapan. 2Alat tangkap dan alat bantu navigasi yang canggih dapat membantu mereka menemukan lokasi ikan dengan lebih cepat dan efisien. 3Alat tangkap canggih, seperti lampu penangkap ikan dan jaring, juga membantu nelayan menangkap ikan dengan lebih efisien. 4Selain itu, teknologi juga telah mendukung produksi ikan di kolam-kolam. 5Produsen ikan dapat mengotomatisasi pemeliharaan ikan dan mengikuti perkembangan kondisi ikan dengan lebih baik. 6Sistem pengontrol suhu air dan sistem otomatisasi pemeliharaan ikan membantu produsen ikan dalam meningkatkan produktivitas ikan. 7Pada proses pengolahan ikan, penggunaan pengolah ikan otomatis, pengayak, mesin pemotong, dan mesin pengemas sangat membantu dalam kecepatan produktivitas dan pengolahan. 8Dengan demikian, kualitas produksi ikan dapat ditingkatkan.",
+      "pilihan_jawaban": {
+        "A": "Banyak daerah dekat laut membangun penyulingan air minum untuk warga setempat.",
+        "B": "Pendapatan dia dari berjualan makanan kemasan secara daring bisa membiayai kuliahnya.",
+        "C": "Mereka sedang melakukan pembersihan poster dan pamflet yang dipasang tanpa izin.",
+        "D": "Setelah mengalami kecelakaan beberapa bulan lalu, pendengaran orang itu terganggu.",
+        "E": "Petani itu membawa padi yang sudah dijemur ke penggilingan."
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal tentang makna afiks pe-an dalam konteks kalimat",
+      "file_asal": "SOAL UTBK 2025_2.pdf",
+      "waktu_parsing": "2026-04-29T20:14:52.398342"
+    },
+    {
+      "nomor": 10,
+      "teks_soal": "Kelompok kata yang berpasangan tetap dalam bacaan tersebut adalah ...\n\nTeks 3:\n1Pengembangan teknologi di bidang perikanan mendorong para nelayan dalam meningkatkan hasil tangkapan. 2Alat tangkap dan alat bantu navigasi yang canggih dapat membantu mereka menemukan lokasi ikan dengan lebih cepat dan efisien. 3Alat tangkap canggih, seperti lampu penangkap ikan dan jaring, juga membantu nelayan menangkap ikan dengan lebih efisien. 4Selain itu, teknologi juga telah mendukung produksi ikan di kolam-kolam. 5Produsen ikan dapat mengotomatisasi pemeliharaan ikan dan mengikuti perkembangan kondisi ikan dengan lebih baik. 6Sistem pengontrol suhu air dan sistem otomatisasi pemeliharaan ikan membantu produsen ikan dalam meningkatkan produktivitas ikan. 7Pada proses pengolahan ikan, penggunaan pengolah ikan otomatis, pengayak, mesin pemotong, dan mesin pengemas sangat membantu dalam kecepatan produktivitas dan pengolahan. 8Dengan demikian, kualitas produksi ikan dapat ditingkatkan.",
+      "pilihan_jawaban": {
+        "A": "hasil tangkapan (kalimat 1)",
+        "B": "alat bantu (kalimat 2)",
+        "C": "produksi ikan (kalimat 4)",
+        "D": "proses pengolahan (kalimat 7)",
+        "E": "kualitas produk (kalimat 8)"
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal tentang kolokasi atau kelompok kata yang berpasangan tetap",
+      "file_asal": "SOAL UTBK 2025_2.pdf",
+      "waktu_parsing": "2026-04-29T20:14:52.398352"
+    },
+    {
+      "nomor": 11,
+      "teks_soal": "Sesuai dengan konteks dalam bacaan tersebut, kata canggih (kalimat 2) memiliki makna yang berlawanan dengan kata ...\n\nTeks 3:\n1Pengembangan teknologi di bidang perikanan mendorong para nelayan dalam meningkatkan hasil tangkapan. 2Alat tangkap dan alat bantu navigasi yang canggih dapat membantu mereka menemukan lokasi ikan dengan lebih cepat dan efisien. 3Alat tangkap canggih, seperti lampu penangkap ikan dan jaring, juga membantu nelayan menangkap ikan dengan lebih efisien. 4Selain itu, teknologi juga telah mendukung produksi ikan di kolam-kolam. 5Produsen ikan dapat mengotomatisasi pemeliharaan ikan dan mengikuti perkembangan kondisi ikan dengan lebih baik. 6Sistem pengontrol suhu air dan sistem otomatisasi pemeliharaan ikan membantu produsen ikan dalam meningkatkan produktivitas ikan. 7Pada proses pengolahan ikan, penggunaan pengolah ikan otomatis, pengayak, mesin pemotong, dan mesin pengemas sangat membantu dalam kecepatan produktivitas dan pengolahan. 8Dengan demikian, kualitas produksi ikan dapat ditingkatkan.",
+      "pilihan_jawaban": {
+        "A": "Primitif",
+        "B": "usang",
+        "C": "klasik",
+        "D": "kuno",
+        "E": "tradisional"
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "mudah",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal tentang antonim atau lawan kata",
+      "file_asal": "SOAL UTBK 2025_2.pdf",
+      "waktu_parsing": "2026-04-29T20:14:52.398355"
+    },
+    {
+      "nomor": 12,
+      "teks_soal": "Kata dalam bacaan tersebut yang mengacu pada makna yang sebenarnya adalah ...\n\nTeks 3:\n1Pengembangan teknologi di bidang perikanan mendorong para nelayan dalam meningkatkan hasil tangkapan. 2Alat tangkap dan alat bantu navigasi yang canggih dapat membantu mereka menemukan lokasi ikan dengan lebih cepat dan efisien. 3Alat tangkap canggih, seperti lampu penangkap ikan dan jaring, juga membantu nelayan menangkap ikan dengan lebih efisien. 4Selain itu, teknologi juga telah mendukung produksi ikan di kolam-kolam. 5Produsen ikan dapat mengotomatisasi pemeliharaan ikan dan mengikuti perkembangan kondisi ikan dengan lebih baik. 6Sistem pengontrol suhu air dan sistem otomatisasi pemeliharaan ikan membantu produsen ikan dalam meningkatkan produktivitas ikan. 7Pada proses pengolahan ikan, penggunaan pengolah ikan otomatis, pengayak, mesin pemotong, dan mesin pengemas sangat membantu dalam kecepatan produktivitas dan pengolahan. 8Dengan demikian, kualitas produksi ikan dapat ditingkatkan.",
+      "pilihan_jawaban": {
+        "A": "mendorong (kalimat 1)",
+        "B": "menemukan (kalimat 2)",
+        "C": "mendukung (kalimat 4)",
+        "D": "mengikuti (kalimat 5)",
+        "E": "meningkatkan (kalimat 6)"
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal tentang makna denotatif vs konotatif",
+      "file_asal": "SOAL UTBK 2025_2.pdf",
+      "waktu_parsing": "2026-04-29T20:14:52.398357"
+    },
+    {
+      "nomor": 13,
+      "teks_soal": "Kata yang tepat di awal paragraf dua untuk menghubungkan kedua paragraf pada bacaan adalah ...\n\nTeks 4:\n1Pendidikan merupakan hal yang sangat penting dalam perkembangan sumber daya manusia (SDM). 2Di era perkembangan teknologi saat ini, terjadi perubahan yang sangat dahsyat dalam dunia pendidikan. 3Akan tetapi, perubahan yang tidak hanya menyebabkan perubahan sosial budaya, tetapi juga kesenjangan ekonomi. 4Hal itu terjadi karena akses pendidikan belum merata. 5Pemerataan akses pendidikan akan memberikan kesempatan kepada setiap warga negara untuk mengembangkan potensi dirinya.\n\n6Setiap orang seharusnya dapat mengenyam pendidikan sesuai dengan minatnya karena pendidikan merupakan hal yang strategis untuk pengembangan potensi masyarakat. 7Karena berperan penting dalam pembangunan SDM, pemerintah perlu mengupayakan pemerataan pendidikan di Indonesia. 8Selain itu, pendidikan harus mampu memaksimalkan potensi individu, dorongan partisipasi masyarakat, dan meningkatkan kualitas SDM.",
+      "pilihan_jawaban": {
+        "A": "akan tetapi",
+        "B": "selain itu",
+        "C": "berkaitan dengan hal itu",
+        "D": "sebagai pertimbangan",
+        "E": "sementara itu"
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal tentang konjungsi antarparagraf",
+      "file_asal": "SOAL UTBK 2025_2.pdf",
+      "waktu_parsing": "2026-04-29T20:14:52.398358"
+    },
+    {
+      "nomor": 14,
+      "teks_soal": "Ungkapan pemerintah perlu mengupayakan pemerataan pendidikan di Indonesia pada kalimat (7) dapat disempurnakan menjadi ...\n\nTeks 4:\n1Pendidikan merupakan hal yang sangat penting dalam perkembangan sumber daya manusia (SDM). 2Di era perkembangan teknologi saat ini, terjadi perubahan yang sangat dahsyat dalam dunia pendidikan. 3Akan tetapi, perubahan yang tidak hanya menyebabkan perubahan sosial budaya, tetapi juga kesenjangan ekonomi. 4Hal itu terjadi karena akses pendidikan belum merata. 5Pemerataan akses pendidikan akan memberikan kesempatan kepada setiap warga negara untuk mengembangkan potensi dirinya.\n\n6Setiap orang seharusnya dapat mengenyam pendidikan sesuai dengan minatnya karena pendidikan merupakan hal yang strategis untuk pengembangan potensi masyarakat. 7Karena berperan penting dalam pembangunan SDM, pemerintah perlu mengupayakan pemerataan pendidikan di Indonesia. 8Selain itu, pendidikan harus mampu memaksimalkan potensi individu, dorongan partisipasi masyarakat, dan meningkatkan kualitas SDM.",
+      "pilihan_jawaban": {
+        "A": "di Indonesia pemerintah perlu berupaya memeratakan pendidikan",
+        "B": "pemerataan pendidikan perlu diupayakan oleh pemerintah di Indonesia",
+        "C": "upaya pemerataan pendidikan diperlukan oleh pemerintah di Indonesia",
+        "D": "perlunya pemerataan pendidikan di Indonesia diupayakan oleh pemerintah",
+        "E": "pendidikan di Indonesia perlu diupayakan pemerataannya oleh pemerintah"
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal tentang penyempurnaan kalimat",
+      "file_asal": "SOAL UTBK 2025_2.pdf",
+      "waktu_parsing": "2026-04-29T20:14:52.398358"
+    },
+    {
+      "nomor": 15,
+      "teks_soal": "Frasa memaksimalkan potensi individu, dorongan partisipasi masyarakat, dan meningkatkan kualitas SDM pada kalimat (8) dapat diperbaiki menjadi ...\n\nTeks 4:\n1Pendidikan merupakan hal yang sangat penting dalam perkembangan sumber daya manusia (SDM). 2Di era perkembangan teknologi saat ini, terjadi perubahan yang sangat dahsyat dalam dunia pendidikan. 3Akan tetapi, perubahan yang tidak hanya menyebabkan perubahan sosial budaya, tetapi juga kesenjangan ekonomi. 4Hal itu terjadi karena akses pendidikan belum merata. 5Pemerataan akses pendidikan akan memberikan kesempatan kepada setiap warga negara untuk mengembangkan potensi dirinya.\n\n6Setiap orang seharusnya dapat mengenyam pendidikan sesuai dengan minatnya karena pendidikan merupakan hal yang strategis untuk pengembangan potensi masyarakat. 7Karena berperan penting dalam pembangunan SDM, pemerintah perlu mengupayakan pemerataan pendidikan di Indonesia. 8Selain itu, pendidikan harus mampu memaksimalkan potensi individu, dorongan partisipasi masyarakat, dan meningkatkan kualitas SDM.",
+      "pilihan_jawaban": {
+        "A": "kata memaksimalkan seharusnya maksimal",
+        "B": "kata meningkatkan seharusnya meningkatkan",
+        "C": "kata potensi seharusnya berpotensi",
+        "D": "kata dorongan seharusnya mendorong",
+        "E": "kata partisipasi seharusnya berpartisipasi"
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal tentang kesejajaran (paralelisme) dalam kalimat",
+      "file_asal": "SOAL UTBK 2025_2.pdf",
+      "waktu_parsing": "2026-04-29T20:14:52.398359"
+    },
+    {
+      "nomor": 16,
+      "teks_soal": "Kalimat yang tidak logis dalam bacaan di atas adalah ...\n\nTeks 4:\n1Pendidikan merupakan hal yang sangat penting dalam perkembangan sumber daya manusia (SDM). 2Di era perkembangan teknologi saat ini, terjadi perubahan yang sangat dahsyat dalam dunia pendidikan. 3Akan tetapi, perubahan yang tidak hanya menyebabkan perubahan sosial budaya, tetapi juga kesenjangan ekonomi. 4Hal itu terjadi karena akses pendidikan belum merata. 5Pemerataan akses pendidikan akan memberikan kesempatan kepada setiap warga negara untuk mengembangkan potensi dirinya.\n\n6Setiap orang seharusnya dapat mengenyam pendidikan sesuai dengan minatnya karena pendidikan merupakan hal yang strategis untuk pengembangan potensi masyarakat. 7Karena berperan penting dalam pembangunan SDM, pemerintah perlu mengupayakan pemerataan pendidikan di Indonesia. 8Selain itu, pendidikan harus mampu memaksimalkan potensi individu, dorongan partisipasi masyarakat, dan meningkatkan kualitas SDM.",
+      "pilihan_jawaban": {
+        "A": "kalimat (2)",
+        "B": "kalimat (3)",
+        "C": "kalimat (4)",
+        "D": "kalimat (5)",
+        "E": "kalimat (6)"
+      },
+      "kunci_jawaban": null,
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal tentang kelogisan kalimat; kalimat (3) tidak logis karena subjek 'perubahan yang' tidak lengkap",
+      "file_asal": "SOAL UTBK 2025_2.pdf",
+      "waktu_parsing": "2026-04-29T20:14:52.398362"
+    },
+    {
+      "nomor": 1,
+      "teks_soal": "Jika sebuah akun tidak mengaktifkan verifikasi dua langkah, akun tersebut rentan diretas. Fenomena ini paling sering terjadi pada akun yang digunakan untuk transaksi keuangan digital.\n\nManakah kesimpulan berikut yang BENAR?",
+      "pilihan_jawaban": {
+        "A": "Semua akun yang mengaktifkan verifikasi dua langkah pasti tidak akan pernah diretas.",
+        "B": "Semua akun akan aman dari peretasan jika digunakan untuk transaksi keuangan digital.",
+        "C": "Akun transaksi keuangan digital akan rentan diretas jika tidak mengaktifkan verifikasi dua langkah.",
+        "D": "Akun transaksi keuangan digital tidak akan pernah diretas meskipun tidak mengaktifkan verifikasi dua langkah.",
+        "E": "Akun yang tidak digunakan untuk transaksi keuangan digital tidak perlu mengaktifkan verifikasi dua langkah."
+      },
+      "kunci_jawaban": "C",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "deskripsi_gambar": null,
+      "ada_rumus_latex": false,
+      "catatan": "Soal logika silogisme kondisional. Premis 1: Tidak verifikasi 2 langkah → rentan diretas. Premis 2: Fenomena ini sering pada akun transaksi keuangan digital. Kesimpulan C merupakan penerapan logis dari kedua premis tersebut.",
+      "file_asal": "Screenshot 2026-04-27 133950.png",
+      "waktu_parsing": "2026-04-29T20:14:57.830550"
+    }
+  ]
+}
