@@ -2,7 +2,7 @@
   "file_asal": "Screenshot 2026-04-27 133950.png",
   "format": ".png",
   "metode_ekstraksi": "claude-vision-ocr",
-  "waktu_ekstraksi": "2026-04-29T20:13:52.307154",
+  "waktu_ekstraksi": "2026-04-30T20:12:36.285648",
   "teks_mentah": "**Soal 1**\n\nJika sebuah akun tidak mengaktifkan verifikasi dua langkah, akun tersebut rentan diretas. Fenomena ini paling sering terjadi pada akun yang digunakan untuk transaksi keuangan digital.\n\nManakah kesimpulan berikut yang BENAR?\n\nA) Semua akun yang mengaktifkan verifikasi dua langkah pasti tidak akan pernah diretas.\n\nB) Semua akun akan aman dari peretasan jika digunakan untuk transaksi keuangan digital.\n\nC) Akun transaksi keuangan digital akan rentan diretas jika tidak mengaktifkan verifikasi dua langkah.\n\nD) Akun transaksi keuangan digital tidak akan pernah diretas meskipun tidak mengaktifkan verifikasi dua langkah.\n\nE) Akun yang tidak digunakan untuk transaksi keuangan digital tidak perlu mengaktifkan verifikasi dua langkah.",
   "status": "extracted"
 }

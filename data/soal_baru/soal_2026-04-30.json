@@ -1,0 +1,306 @@
+{
+  "tanggal_generate": "2026-04-30T20:16:13.819325",
+  "total_soal_baru": 15,
+  "soal": [
+    {
+      "nomor": 1,
+      "teks_soal": "Di sebuah toko alat tulis, harga 3 buku tulis, 2 pensil, dan 4 penghapus adalah Rp54.000,00. Sementara itu, harga 1 buku tulis, 4 pensil, dan 2 penghapus adalah Rp38.000,00.\n\nJika Andi membeli 2 buku tulis, 3 pensil, dan 3 penghapus di toko tersebut, ia harus membayar sebanyak...",
+      "pilihan_jawaban": {
+        "A": "Rp42.000,00",
+        "B": "Rp44.000,00",
+        "C": "Rp46.000,00",
+        "D": "Rp48.000,00",
+        "E": "Rp50.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga buku tulis = $x$, pensil = $y$, dan penghapus = $z$\nPersamaan 1: $3x + 2y + 4z = 54.000$\nPersamaan 2: $x + 4y + 2z = 38.000$\n\nLangkah 2: Yang ditanya adalah $2x + 3y + 3z$\nKita coba kombinasi linear dari kedua persamaan.\n\nLangkah 3: Jika persamaan 1 + persamaan 2:\n$3x + 2y + 4z + x + 4y + 2z = 54.000 + 38.000$\n$4x + 6y + 6z = 92.000$\n$2x + 3y + 3z = 46.000$ (dibagi 2)\n\nLangkah 4: Jadi Andi harus membayar Rp46.000,00\n\nJadi jawaban adalah C karena $2x + 3y + 3z = \\frac{1}{2}(4x + 6y + 6z) = \\frac{92.000}{2} = 46.000$",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:14:09.349625",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Sebuah toko buah menjual 4 kg apel, 2 kg jeruk, dan 3 kg anggur seharga Rp210.000,00. Di toko yang sama, 2 kg apel, 4 kg jeruk, dan 1 kg anggur dijual seharga Rp150.000,00.\n\nJika Bu Sari membeli 3 kg apel, 3 kg jeruk, dan 2 kg anggur, berapa yang harus ia bayar?",
+      "pilihan_jawaban": {
+        "A": "Rp170.000,00",
+        "B": "Rp175.000,00",
+        "C": "Rp180.000,00",
+        "D": "Rp185.000,00",
+        "E": "Rp190.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga per kg apel = $a$, jeruk = $j$, anggur = $g$\nPersamaan 1: $4a + 2j + 3g = 210.000$\nPersamaan 2: $2a + 4j + 1g = 150.000$\n\nLangkah 2: Yang ditanya adalah $3a + 3j + 2g$\n\nLangkah 3: Jumlahkan persamaan 1 dan persamaan 2:\n$4a + 2j + 3g + 2a + 4j + g = 210.000 + 150.000$\n$6a + 6j + 4g = 360.000$\n\nLangkah 4: Bagi dengan 2:\n$3a + 3j + 2g = 180.000$\n\nJadi jawaban adalah C karena kombinasi linear persamaan 1 dan 2 menghasilkan $3a + 3j + 2g = 180.000$",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:14:09.349634",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Di sebuah kantin, harga 2 porsi nasi goreng, 3 porsi mie goreng, dan 1 gelas es teh adalah Rp85.000,00. Sedangkan harga 4 porsi nasi goreng, 1 porsi mie goreng, dan 3 gelas es teh adalah Rp95.000,00.\n\nJika seseorang membeli 3 porsi nasi goreng, 2 porsi mie goreng, dan 2 gelas es teh, ia harus membayar...",
+      "pilihan_jawaban": {
+        "A": "Rp85.000,00",
+        "B": "Rp87.500,00",
+        "C": "Rp90.000,00",
+        "D": "Rp92.500,00",
+        "E": "Rp95.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga nasi goreng = $n$, mie goreng = $m$, es teh = $t$\nPersamaan 1: $2n + 3m + t = 85.000$\nPersamaan 2: $4n + m + 3t = 95.000$\n\nLangkah 2: Yang ditanya adalah $3n + 2m + 2t$\n\nLangkah 3: Jumlahkan persamaan 1 dan persamaan 2:\n$2n + 3m + t + 4n + m + 3t = 85.000 + 95.000$\n$6n + 4m + 4t = 180.000$\n\nLangkah 4: Bagi dengan 2:\n$3n + 2m + 2t = 90.000$\n\nJadi jawaban adalah C karena $\\frac{(2n + 3m + t) + (4n + m + 3t)}{2} = \\frac{180.000}{2} = 90.000$",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:14:09.349635",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Toko elektronik menjual 1 unit televisi, 2 unit kipas angin, dan 3 unit setrika seharga Rp4.800.000,00. Di toko yang sama, 3 unit televisi, 2 unit kipas angin, dan 1 unit setrika dijual seharga Rp8.800.000,00.\n\nSelisih harga 1 unit televisi dengan 1 unit setrika adalah...",
+      "pilihan_jawaban": {
+        "A": "Rp1.800.000,00",
+        "B": "Rp1.900.000,00",
+        "C": "Rp2.000.000,00",
+        "D": "Rp2.100.000,00",
+        "E": "Rp2.200.000,00"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Misalkan harga televisi = $v$, kipas angin = $k$, setrika = $s$\nPersamaan 1: $v + 2k + 3s = 4.800.000$\nPersamaan 2: $3v + 2k + s = 8.800.000$\n\nLangkah 2: Yang ditanya adalah selisih $v - s$\n\nLangkah 3: Kurangkan persamaan 1 dari persamaan 2:\n$(3v + 2k + s) - (v + 2k + 3s) = 8.800.000 - 4.800.000$\n$3v + 2k + s - v - 2k - 3s = 4.000.000$\n$2v - 2s = 4.000.000$\n$v - s = 2.000.000$\n\nJadi jawaban adalah C karena selisih harga televisi dan setrika adalah Rp2.000.000,00",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:14:09.349636",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Di sebuah percetakan, biaya cetak 5 buku foto, 3 kalender, dan 2 poster adalah Rp725.000,00. Sementara biaya cetak 3 buku foto, 5 kalender, dan 4 poster adalah Rp775.000,00.\n\nJika Pak Dani memesan 4 buku foto, 4 kalender, dan 3 poster di percetakan tersebut, ia harus membayar sebanyak...",
+      "pilihan_jawaban": {
+        "A": "Rp725.000,00",
+        "B": "Rp750.000,00",
+        "C": "Rp775.000,00",
+        "D": "Rp800.000,00",
+        "E": "Rp825.000,00"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Misalkan harga buku foto = $b$, kalender = $k$, poster = $p$\nPersamaan 1: $5b + 3k + 2p = 725.000$\nPersamaan 2: $3b + 5k + 4p = 775.000$\n\nLangkah 2: Yang ditanya adalah $4b + 4k + 3p$\n\nLangkah 3: Jumlahkan persamaan 1 dan persamaan 2:\n$5b + 3k + 2p + 3b + 5k + 4p = 725.000 + 775.000$\n$8b + 8k + 6p = 1.500.000$\n\nLangkah 4: Bagi dengan 2:\n$4b + 4k + 3p = 750.000$\n\nJadi jawaban adalah B karena $\\frac{(5b + 3k + 2p) + (3b + 5k + 4p)}{2} = \\frac{1.500.000}{2} = 750.000$",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Kuantitatif",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:14:09.349637",
+      "status": "generated"
+    },
+    {
+      "nomor": 1,
+      "teks_soal": "Bacalah teks berikut!\n\nTeks:\n1Perkembangan industri tekstil di Indonesia mengalami peningkatan signifikan dalam beberapa tahun terakhir. 2Produksi kain dengan menggunakan mesin modern memungkinkan pengrajin menghasilkan produk berkualitas tinggi. 3Pewarnaan kain secara alami kini menjadi tren yang diminati konsumen domestik maupun mancanegara. 4Bahan pewarna alami seperti daun indigo dan kulit manggis memberikan warna yang khas dan ramah lingkungan. 5Pengusaha tekstil juga melakukan pemutihan kain sebelum proses pewarnaan untuk mendapatkan hasil maksimal. 6Proses pemutihan ini memerlukan ketelitian agar serat kain tidak rusak. 7Dengan kombinasi teknik tradisional dan teknologi modern, industri tekstil Indonesia mampu bersaing di pasar global.\n\nBentuk pe-an pada kata pemutihan dalam kalimat (5) mempunyai makna yang sama dengan bentuk pe-an pada kalimat ...",
+      "pilihan_jawaban": {
+        "A": "Pengumpulan dana untuk korban bencana dilakukan di berbagai titik kota.",
+        "B": "Penulisan laporan harus selesai sebelum tenggat waktu yang ditentukan.",
+        "C": "Pendinginan makanan di lemari es dapat memperpanjang masa simpan.",
+        "D": "Pendidikan karakter perlu diterapkan sejak usia dini.",
+        "E": "Penerbitan buku ini dilakukan oleh penerbit ternama."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Langkah 1: Identifikasi makna kata 'pemutihan' dalam kalimat (5). Kata 'pemutihan' berasal dari kata dasar 'putih' + pe-an, yang bermakna 'proses membuat menjadi putih' atau 'proses menjadikan sesuatu memiliki sifat putih'.\n\nLangkah 2: Analisis setiap pilihan jawaban:\n- A) Pengumpulan: pe-an + kumpul = proses mengumpulkan (aktivitas)\n- B) Penulisan: pe-an + tulis = proses menulis (aktivitas)\n- C) Pendinginan: pe-an + dingin = proses membuat menjadi dingin (menjadikan bersifat)\n- D) Pendidikan: pe-an + didik = hal yang berkaitan dengan mendidik (hasil/hal)\n- E) Penerbitan: pe-an + terbit = proses menerbitkan (aktivitas)\n\nLangkah 3: Kata 'pemutihan' dan 'pendinginan' sama-sama bermakna 'proses menjadikan sesuatu memiliki sifat tertentu' (putih dan dingin adalah kata sifat/adjektiva).\n\nJadi jawaban adalah C karena 'pendinginan' memiliki pola pembentukan dan makna yang sama dengan 'pemutihan', yaitu proses menjadikan sesuatu bersifat seperti kata dasarnya.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:15:21.319590",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Bacalah teks berikut!\n\nTeks:\n1Pertanian organik mulai dikembangkan secara masif di berbagai daerah. 2Para petani beralih dari penggunaan pestisida kimia ke bahan-bahan alami. 3Pupuk kandang dan kompos menjadi pilihan utama untuk menyuburkan tanah. 4Hasil panen dari pertanian organik memiliki nilai jual lebih tinggi di pasaran. 5Konsumen rela membayar lebih mahal karena produk ini dianggap lebih sehat dan aman. 6Sertifikasi organik dari lembaga berwenang menjadi jaminan kualitas bagi pembeli. 7Meski demikian, tantangan dalam pertanian organik tetap ada, terutama dalam pengendalian hama secara alami.\n\nKelompok kata yang berpasangan tetap dalam bacaan tersebut adalah ...",
+      "pilihan_jawaban": {
+        "A": "pertanian organik (kalimat 1)",
+        "B": "pupuk kandang (kalimat 3)",
+        "C": "nilai jual (kalimat 4)",
+        "D": "lembaga berwenang (kalimat 6)",
+        "E": "pengendalian hama (kalimat 7)"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": "Langkah 1: Pahami konsep kelompok kata berpasangan tetap (kolokasi tetap). Kolokasi tetap adalah pasangan kata yang selalu digunakan bersama dan tidak dapat diganti dengan kata lain yang bermakna sama.\n\nLangkah 2: Analisis setiap pilihan:\n- A) Pertanian organik: dapat diganti menjadi 'budidaya organik', 'pertanian alami' (tidak tetap)\n- B) Pupuk kandang: dapat diganti menjadi 'pupuk ternak', 'pupuk hewan' (tidak tetap)\n- C) Nilai jual: dapat diganti menjadi 'harga jual' (tidak tetap)\n- D) Lembaga berwenang: merupakan pasangan tetap yang tidak dapat diganti, ungkapan resmi dalam bahasa Indonesia (kolokasi tetap)\n- E) Pengendalian hama: dapat diganti menjadi 'pemberantasan hama', 'pembasmian hama' (tidak tetap)\n\nLangkah 3: 'Lembaga berwenang' adalah kolokasi tetap yang lazim digunakan dalam konteks resmi dan tidak dapat digantikan dengan frasa lain tanpa mengubah nuansa makna.\n\nJadi jawaban adalah D karena 'lembaga berwenang' merupakan kelompok kata berpasangan tetap yang sudah menjadi ungkapan baku dalam bahasa Indonesia.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:15:21.319599",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Bacalah teks berikut!\n\nTeks:\n1Transportasi publik di kota-kota besar Indonesia terus mengalami modernisasi. 2Kehadiran MRT dan LRT menjadi solusi kemacetan yang sudah akut. 3Masyarakat perkotaan perlahan mulai beralih dari kendaraan pribadi ke transportasi massal. 4Tarif yang terjangkau dan jadwal yang teratur menjadi daya tarik utama. 5Fasilitas yang memadai seperti pendingin ruangan dan akses internet gratis menambah kenyamanan penumpang. 6Pemerintah berharap perubahan perilaku masyarakat ini bersifat permanen. 7Dengan berkurangnya penggunaan kendaraan pribadi, polusi udara dapat ditekan secara signifikan.\n\nSesuai dengan konteks dalam bacaan tersebut, kata akut (kalimat 2) memiliki makna yang berlawanan dengan kata ...",
+      "pilihan_jawaban": {
+        "A": "ringan",
+        "B": "biasa",
+        "C": "normal",
+        "D": "wajar",
+        "E": "lumrah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": "Langkah 1: Pahami makna kata 'akut' dalam konteks kalimat. Dalam kalimat \"Kehadiran MRT dan LRT menjadi solusi kemacetan yang sudah akut\", kata 'akut' bermakna 'sangat parah' atau 'sudah mencapai tingkat yang gawat/serius'.\n\nLangkah 2: Cari antonim (lawan kata) yang tepat:\n- A) Ringan: bermakna tidak berat, tidak parah — antonim tepat dari 'akut' (parah)\n- B) Biasa: bermakna umum, tidak istimewa — bukan antonim langsung\n- C) Normal: bermakna sesuai standar — tidak langsung berlawanan\n- D) Wajar: bermakna sepatutnya — tidak langsung berlawanan\n- E) Lumrah: bermakna lazim — tidak langsung berlawanan\n\nLangkah 3: Dalam konteks tingkat keparahan masalah, 'akut' yang berarti 'parah/gawat' berlawanan dengan 'ringan' yang berarti 'tidak parah'.\n\nJadi jawaban adalah A karena 'ringan' merupakan antonim yang tepat untuk 'akut' dalam konteks tingkat keparahan suatu masalah.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:15:21.319601",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Bacalah teks berikut!\n\nTeks:\n1Energi terbarukan menjadi fokus utama pembangunan berkelanjutan di abad ini. 2Indonesia memiliki potensi besar dalam pengembangan energi surya dan angin. 3Panel surya kini semakin terjangkau harganya dan mudah dipasang di rumah-rumah. 4Pemasangan panel surya di atap rumah dapat mengurangi tagihan listrik hingga 70 persen. 5Selain itu, pemerintah memberikan insentif bagi masyarakat yang menggunakan energi terbarukan. 6Pemberian insentif ini bertujuan mempercepat transisi dari energi fosil ke energi bersih. 7Diharapkan pada tahun 2060, Indonesia dapat mencapai target nol emisi karbon.\n\nKata yang mengalami pergeseran makna dalam teks tersebut adalah ...",
+      "pilihan_jawaban": {
+        "A": "fokus (kalimat 1)",
+        "B": "potensi (kalimat 2)",
+        "C": "tagihan (kalimat 4)",
+        "D": "insentif (kalimat 5)",
+        "E": "transisi (kalimat 6)"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": "Langkah 1: Pahami konsep pergeseran makna. Pergeseran makna terjadi ketika sebuah kata digunakan dengan makna yang berbeda dari makna aslinya.\n\nLangkah 2: Analisis setiap pilihan:\n- A) Fokus: makna asal adalah 'titik api' atau 'titik pertemuan cahaya' (istilah optika). Dalam teks bermakna 'pusat perhatian' — terjadi pergeseran makna\n- B) Potensi: makna tetap 'kemampuan yang mungkin dikembangkan'\n- C) Tagihan: makna tetap 'surat/pemberitahuan untuk membayar'\n- D) Insentif: makna tetap 'tambahan pendapatan sebagai perangsang'\n- E) Transisi: makna tetap 'peralihan dari satu keadaan ke keadaan lain'\n\nLangkah 3: Kata 'fokus' mengalami perluasan makna dari istilah fisika/optika menjadi bermakna 'hal yang menjadi pusat perhatian'.\n\nJadi jawaban adalah A karena kata 'fokus' telah mengalami pergeseran makna dari makna aslinya dalam bidang optika menjadi makna umum yang berarti 'pusat perhatian'.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:15:21.319602",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Bacalah teks berikut!\n\nTeks:\n1Literasi digital menjadi keterampilan esensial di era informasi saat ini. 2Kemampuan menyaring informasi yang valid dari berbagai sumber sangat diperlukan. 3Hoaks dan misinformasi tersebar dengan cepat melalui media sosial. 4Masyarakat perlu dibekali kemampuan berpikir kritis untuk menghadapi derasnya arus informasi. 5Pendidikan literasi digital harus dimasukkan dalam kurikulum sekolah. 6Pelatihan bagi guru juga diperlukan agar mereka dapat mengajarkan materi ini dengan baik. 7Dengan literasi digital yang memadai, masyarakat dapat menjadi konsumen informasi yang cerdas.\n\nMakna kata esensial (kalimat 1) dalam konteks bacaan adalah ...",
+      "pilihan_jawaban": {
+        "A": "mutlak",
+        "B": "penting",
+        "C": "utama",
+        "D": "pokok",
+        "E": "dasar"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi konteks penggunaan kata 'esensial' dalam kalimat \"Literasi digital menjadi keterampilan esensial di era informasi saat ini.\"\n\nLangkah 2: Analisis makna 'esensial' dalam konteks:\n- Kata 'esensial' berasal dari bahasa Latin 'essentia' yang berarti hakikat atau inti\n- Dalam konteks kalimat, 'keterampilan esensial' berarti keterampilan yang sangat diperlukan atau penting\n\nLangkah 3: Bandingkan dengan pilihan jawaban:\n- A) Mutlak: bermakna tidak bisa tidak, harus — terlalu kuat maknanya\n- B) Penting: bermakna sangat diperlukan — sesuai konteks\n- C) Utama: bermakna yang pertama/paling atas — tidak tepat konteks\n- D) Pokok: bermakna yang menjadi dasar — tidak tepat konteks\n- E) Dasar: bermakna yang menjadi landasan — tidak tepat konteks\n\nLangkah 4: Dalam konteks bacaan, kata 'esensial' merujuk pada sesuatu yang sangat diperlukan atau penting, bukan sesuatu yang mutlak atau dasar.\n\nJadi jawaban adalah B karena 'penting' paling tepat menggambarkan makna 'esensial' dalam konteks keterampilan yang sangat diperlukan di era informasi.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum - Pemahaman Bacaan dan Menulis",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:15:21.319603",
+      "status": "generated"
+    },
+    {
+      "nomor": 1,
+      "teks_soal": "Setiap mahasiswa yang tidak mengumpulkan tugas akhir tepat waktu akan mendapatkan pengurangan nilai. Data menunjukkan bahwa mahasiswa tingkat akhir paling sering terlambat mengumpulkan tugas akhir karena kesibukan mencari pekerjaan.\n\nManakah kesimpulan berikut yang BENAR?",
+      "pilihan_jawaban": {
+        "A": "Semua mahasiswa yang mengumpulkan tugas tepat waktu pasti mendapat nilai sempurna.",
+        "B": "Mahasiswa tingkat akhir yang tidak mengumpulkan tugas tepat waktu akan mendapatkan pengurangan nilai.",
+        "C": "Mahasiswa yang sibuk mencari pekerjaan pasti tidak akan mengumpulkan tugas tepat waktu.",
+        "D": "Semua mahasiswa tingkat akhir pasti terlambat mengumpulkan tugas akhir.",
+        "E": "Mahasiswa yang bukan tingkat akhir tidak perlu mengumpulkan tugas tepat waktu."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi premis dalam soal.\n- Premis 1: Jika tidak mengumpulkan tugas akhir tepat waktu → mendapat pengurangan nilai\n- Premis 2: Mahasiswa tingkat akhir paling sering terlambat mengumpulkan tugas akhir\n\nLangkah 2: Analisis setiap pilihan jawaban.\n- A) Salah. Premis hanya menyatakan bahwa terlambat akan dikurangi nilai, bukan bahwa tepat waktu pasti nilai sempurna.\n- B) Benar. Ini adalah penerapan langsung premis 1 pada mahasiswa tingkat akhir. Jika mahasiswa tingkat akhir tidak mengumpulkan tepat waktu, maka berdasarkan premis 1, mereka akan mendapat pengurangan nilai.\n- C) Salah. Premis 2 hanya menyatakan \"paling sering\", bukan \"pasti\".\n- D) Salah. Premis menyatakan \"paling sering\", bukan \"semua pasti\".\n- E) Salah. Premis 1 berlaku untuk semua mahasiswa, bukan hanya tingkat akhir.\n\nJadi jawaban adalah B karena merupakan kesimpulan valid dari kombinasi kedua premis.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:16:13.819271",
+      "status": "generated"
+    },
+    {
+      "nomor": 2,
+      "teks_soal": "Penelitian menunjukkan bahwa tanaman yang tidak mendapat paparan sinar matahari minimal 6 jam sehari akan mengalami pertumbuhan yang terhambat. Tanaman hias dalam ruangan umumnya hanya mendapat paparan sinar matahari kurang dari 4 jam sehari.\n\nBerdasarkan informasi di atas, manakah pernyataan yang paling tepat?",
+      "pilihan_jawaban": {
+        "A": "Semua tanaman hias dalam ruangan pasti mati karena kurang sinar matahari.",
+        "B": "Tanaman hias dalam ruangan umumnya akan mengalami pertumbuhan yang terhambat.",
+        "C": "Tanaman yang mendapat sinar matahari 6 jam sehari pasti tumbuh dengan sempurna.",
+        "D": "Tanaman di luar ruangan tidak pernah mengalami pertumbuhan yang terhambat.",
+        "E": "Pertumbuhan tanaman hanya dipengaruhi oleh paparan sinar matahari."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi premis.\n- Premis 1: Jika paparan sinar matahari < 6 jam/hari → pertumbuhan terhambat\n- Premis 2: Tanaman hias dalam ruangan umumnya mendapat paparan < 4 jam/hari\n\nLangkah 2: Hubungkan kedua premis.\n- Karena 4 jam < 6 jam, maka tanaman hias dalam ruangan termasuk dalam kategori \"tidak mendapat paparan minimal 6 jam\"\n- Berdasarkan premis 1, mereka akan mengalami pertumbuhan terhambat\n\nLangkah 3: Evaluasi pilihan jawaban.\n- A) Salah. \"Mati\" berbeda dengan \"pertumbuhan terhambat\". Ini berlebihan.\n- B) Benar. Kata \"umumnya\" sesuai dengan premis 2, dan kesimpulan pertumbuhan terhambat sesuai dengan premis 1.\n- C) Salah. Premis hanya menyatakan kondisi minimal, bukan jaminan kesempurnaan.\n- D) Salah. Tidak ada informasi tentang tanaman di luar ruangan.\n- E) Salah. Premis tidak menyatakan bahwa sinar matahari adalah satu-satunya faktor.\n\nJadi jawaban adalah B karena merupakan kesimpulan logis dari kedua premis.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:16:13.819278",
+      "status": "generated"
+    },
+    {
+      "nomor": 3,
+      "teks_soal": "Semua peserta yang lulus seleksi administrasi berhak mengikuti tes tertulis. Budi lulus seleksi administrasi. Hanya peserta yang mengikuti tes tertulis dan mendapat nilai di atas 75 yang akan dipanggil untuk wawancara.\n\nManakah kesimpulan yang PASTI benar?",
+      "pilihan_jawaban": {
+        "A": "Budi pasti akan dipanggil untuk wawancara.",
+        "B": "Budi berhak mengikuti tes tertulis.",
+        "C": "Budi pasti mendapat nilai di atas 75 dalam tes tertulis.",
+        "D": "Semua yang mengikuti tes tertulis pasti dipanggil wawancara.",
+        "E": "Budi tidak perlu mengikuti tes tertulis untuk dipanggil wawancara."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah 1: Identifikasi premis.\n- Premis 1: Lulus seleksi administrasi → berhak mengikuti tes tertulis\n- Premis 2: Budi lulus seleksi administrasi\n- Premis 3: Mengikuti tes tertulis DAN nilai > 75 → dipanggil wawancara\n\nLangkah 2: Terapkan silogisme.\n- Dari Premis 1 dan 2: Budi berhak mengikuti tes tertulis (Modus Ponens)\n\nLangkah 3: Evaluasi pilihan jawaban.\n- A) Salah. Untuk dipanggil wawancara, Budi harus mengikuti tes tertulis DAN mendapat nilai > 75. Kita tidak tahu apakah Budi memenuhi kedua syarat.\n- B) Benar. Ini adalah kesimpulan langsung dari premis 1 dan 2 menggunakan modus ponens.\n- C) Salah. Tidak ada informasi tentang nilai Budi.\n- D) Salah. Premis 3 mensyaratkan nilai > 75 juga, bukan hanya mengikuti tes.\n- E) Salah. Premis 3 menyatakan tes tertulis adalah syarat untuk wawancara.\n\nJadi jawaban adalah B karena dapat disimpulkan secara pasti dari premis yang diberikan.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:16:13.819279",
+      "status": "generated"
+    },
+    {
+      "nomor": 4,
+      "teks_soal": "Jika harga bahan bakar naik, maka biaya produksi akan meningkat. Jika biaya produksi meningkat, maka harga barang di pasaran akan naik. Saat ini, harga bahan bakar mengalami kenaikan signifikan.\n\nManakah pernyataan berikut yang merupakan kesimpulan VALID?",
+      "pilihan_jawaban": {
+        "A": "Harga barang di pasaran akan naik.",
+        "B": "Jika harga barang naik, maka harga bahan bakar pasti naik.",
+        "C": "Biaya produksi tidak akan meningkat jika harga bahan bakar stabil.",
+        "D": "Harga bahan bakar adalah satu-satunya penyebab kenaikan harga barang.",
+        "E": "Jika biaya produksi tidak meningkat, maka harga bahan bakar tidak naik."
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": "Langkah 1: Identifikasi premis dalam bentuk logika.\n- Premis 1: Harga BBM naik → Biaya produksi naik (P → Q)\n- Premis 2: Biaya produksi naik → Harga barang naik (Q → R)\n- Premis 3: Harga BBM naik (P)\n\nLangkah 2: Terapkan rantai silogisme hipotetis.\n- Dari P → Q dan Q → R, kita dapat menyimpulkan P → R\n- Dari P dan P → R, kita dapat menyimpulkan R (Modus Ponens)\n- Jadi: Harga barang di pasaran akan naik\n\nLangkah 3: Evaluasi pilihan jawaban.\n- A) Benar. Ini adalah hasil dari rantai silogisme dan modus ponens.\n- B) Salah. Ini adalah kekeliruan konvers (affirming the consequent). Harga barang bisa naik karena faktor lain.\n- C) Salah. Premis hanya menyatakan syarat cukup, bukan syarat perlu. Biaya produksi bisa naik karena faktor lain.\n- D) Salah. Tidak ada informasi bahwa BBM adalah satu-satunya penyebab.\n- E) Salah. Ini adalah kontraposisi dari P → Q, bukan Q → P.\n\nJadi jawaban adalah A karena merupakan kesimpulan valid dari rantai penalaran deduktif.",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:16:13.819280",
+      "status": "generated"
+    },
+    {
+      "nomor": 5,
+      "teks_soal": "Survei menunjukkan bahwa karyawan yang bekerja lebih dari 50 jam per minggu memiliki risiko tinggi mengalami burnout. Departemen IT di perusahaan X rata-rata bekerja 55 jam per minggu. Namun, beberapa karyawan departemen IT telah mengikuti program manajemen stres.\n\nBerdasarkan informasi di atas, manakah pernyataan yang TIDAK dapat disimpulkan?",
+      "pilihan_jawaban": {
+        "A": "Karyawan departemen IT perusahaan X memiliki risiko tinggi mengalami burnout.",
+        "B": "Beberapa karyawan departemen IT mungkin memiliki risiko burnout yang lebih rendah.",
+        "C": "Rata-rata jam kerja departemen IT melebihi batas 50 jam per minggu.",
+        "D": "Semua karyawan departemen IT pasti akan mengalami burnout.",
+        "E": "Program manajemen stres diikuti oleh sebagian karyawan departemen IT."
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": "Langkah 1: Identifikasi premis.\n- Premis 1: Bekerja > 50 jam/minggu → risiko tinggi burnout\n- Premis 2: Departemen IT rata-rata bekerja 55 jam/minggu (55 > 50)\n- Premis 3: Beberapa karyawan IT mengikuti program manajemen stres\n\nLangkah 2: Evaluasi setiap pilihan apakah dapat disimpulkan atau tidak.\n- A) Dapat disimpulkan. 55 jam > 50 jam, jadi berdasarkan premis 1, mereka memiliki risiko tinggi burnout.\n- B) Dapat disimpulkan. Premis 3 menyatakan beberapa mengikuti program manajemen stres, yang mungkin menurunkan risiko.\n- C) Dapat disimpulkan. 55 jam > 50 jam, ini fakta langsung dari premis 2.\n- D) TIDAK dapat disimpulkan. Premis 1 hanya menyatakan \"risiko tinggi\", bukan \"pasti akan mengalami\". \"Risiko tinggi\" berbeda dengan \"kepastian\".\n- E) Dapat disimpulkan. Ini parafrase langsung dari premis 3.\n\nLangkah 3: Karena pertanyaan meminta yang TIDAK dapat disimpulkan, jawaban adalah D.\n\nJadi jawaban adalah D karena menyimpulkan kepastian dari pernyataan probabilistik (risiko tinggi ≠ pasti terjadi).",
+      "jenis_soal": "TPS",
+      "sub_topik": "Penalaran Umum",
+      "tingkat_kesulitan": "sedang",
+      "ada_gambar": false,
+      "prompt_gambar_gemini": null,
+      "waktu_generate": "2026-04-30T20:16:13.819281",
+      "status": "generated"
+    }
+  ]
+}
